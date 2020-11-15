@@ -1,0 +1,1 @@
+.sfit is the MATLAB reserved extension for Curve-Fitting-Toolbox project files

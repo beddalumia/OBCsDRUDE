@@ -1,0 +1,1 @@
+.mat is the MATLAB reserved extension for proprietary data-storage files

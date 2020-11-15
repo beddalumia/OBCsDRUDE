@@ -1,0 +1,1 @@
+.fig is the MATLAB reserved extension for proprietary enriched-figure files
