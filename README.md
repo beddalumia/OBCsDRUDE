@@ -1,3 +1,3 @@
-![matDrudeBanner](picReadme/repository-banner.svg!sanitize=true)
+![matDrudeBanner](picReadme/repository-banner.svg!raw=true)
 # OBCsDrudeTh
  
