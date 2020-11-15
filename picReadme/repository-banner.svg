@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5380,6 +5380,62 @@
          x="-306.83344"
          y="111.46257" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath59629-2">
+      <rect
+         style="opacity:1;fill:#d45500;fill-opacity:1;stroke:#000000;stroke-width:0.72793347;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect59631-0"
+         width="332.05084"
+         height="77.903954"
+         x="141.81487"
+         y="-717.72015"
+         transform="scale(1,-1)" />
+    </clipPath>
+    <clipPath
+       id="clipPath58298-0"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path58296-5"
+         d="m 124.757,620.062 h -13.645 v 13.276 h 13.645 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath58304-9"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path58302-9"
+         d="m 124.334,620.25 h -12.977 v 12.977 h 12.977 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath58310-7"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path58308-4"
+         d="m 111.646,633.227 h 12.4 c 0.192,0 0.288,-0.096 0.288,-0.288 v -12.4 c 0,-0.193 -0.096,-0.289 -0.288,-0.289 h -12.4 c -0.193,0 -0.289,0.096 -0.289,0.289 v 12.4 c 0,0.192 0.096,0.288 0.289,0.288" />
+    </clipPath>
+    <clipPath
+       id="clipPath58322-7"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path58320-9"
+         d="m 124.387,633.281 h -13.084 v -13.085 h 13.084 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3900">
+      <rect
+         style="opacity:1;fill:#77ac30;fill-opacity:1;stroke:none;stroke-width:0.44935977;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect3902"
+         width="2.4774485"
+         height="8.6710691"
+         x="229.11247"
+         y="-665.03601"
+         transform="scale(1,-1)" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -5390,15 +5446,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2880"
-     inkscape:window-height="1526"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.438256"
-     inkscape:cx="717.17629"
-     inkscape:cy="213.15136"
+     inkscape:zoom="3.2648411"
+     inkscape:cx="452.24952"
+     inkscape:cy="411.7841"
      inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-y="1609"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      fit-margin-top="0"
@@ -7892,6 +7948,2364 @@
          id="path59649"
          d="m 238.6609,175.4384 c -0.13459,-0.26027 -1.32649,-3.13891 -1.73714,-4.1955 -0.12679,-0.32622 -0.36943,-0.90436 -0.53919,-1.28474 -0.16976,-0.38038 -0.30866,-0.71611 -0.30866,-0.74607 0,-0.03 -0.0816,-0.2335 -0.18141,-0.45231 -0.0998,-0.21881 -0.38378,-0.86169 -0.63113,-1.42861 -1.23467,-2.82984 -3.27707,-6.97335 -4.24237,-8.60669 -1.37225,-2.32194 -2.53438,-3.91938 -3.79801,-5.22071 -1.00299,-1.03291 -1.74205,-1.63287 -2.53047,-2.05423 -0.27227,-0.14551 -0.46292,-0.29205 -0.42367,-0.32566 0.0393,-0.0336 0.73864,-0.62858 1.55421,-1.32219 0.81557,-0.6936 2.49658,-2.27301 3.73558,-3.50979 3.44955,-3.44337 5.43623,-5.97613 8.79327,-11.21024 0.27118,-0.42281 2.16154,-3.5551 2.85039,-4.72305 1.85436,-3.14407 5.23934,-9.73296 7.00863,-13.64235 0.49568,-1.09527 1.38419,-3.15431 1.97446,-4.57565 1.29669,-3.1224 1.77869,-4.25778 2.60789,-6.1431 0.34845,-0.79227 0.99818,-2.37468 1.44384,-3.51647 1.39396,-3.571343 1.98376,-4.970448 2.76377,-6.556107 1.58911,-3.230422 2.47316,-4.249105 3.77849,-4.353884 0.4912,-0.03943 0.60323,-0.01648 1.09031,0.223303 1.39319,0.685863 2.94328,3.022548 4.92517,7.424415 0.35671,0.792263 0.73538,1.669263 0.8415,1.948893 0.10611,0.27962 0.44853,1.13755 0.76092,1.90652 0.55697,1.37098 2.97404,7.77343 3.43882,9.10893 0.12976,0.37283 0.52875,1.47862 0.88666,2.4573 0.35791,0.97868 0.68302,1.89381 0.72246,2.03362 0.0394,0.13981 0.24847,0.73083 0.46452,1.31338 0.60419,1.62915 3.00854,8.48763 4.87161,13.89642 3.35882,9.7512 5.86541,16.32093 9.20945,24.13788 0.48577,1.13553 0.86408,2.08374 0.84068,2.10714 -0.0473,0.0473 -0.55666,-0.41704 -2.25394,-2.05435 -3.42764,-3.30653 -5.07198,-4.55803 -7.58372,-5.77194 -2.2073,-1.06678 -3.07223,-1.24691 -5.74192,-1.1958 -1.81857,0.0348 -2.03036,0.0551 -2.77387,0.26598 -1.65051,0.46809 -2.74371,0.94968 -4.15421,1.83008 -2.76827,1.72786 -5.27296,4.20425 -11.31319,11.18535 -2.77836,3.21114 -3.9524,4.48709 -5.81243,6.31693 -3.11591,3.06537 -5.28786,4.72171 -7.91113,6.03308 -0.65915,0.32951 -2.23549,0.95327 -2.40905,0.95327 -0.0474,0 -0.14515,-0.11387 -0.21712,-0.25305 z m 3.30404,-4.94448 c 1.33633,-0.89437 2.56998,-1.92265 4.46847,-3.72461 1.57929,-1.49899 3.16259,-3.21407 6.07833,-6.58423 1.27009,-1.46802 2.90557,-3.33641 3.63441,-4.15198 1.80565,-2.02051 4.76885,-4.97302 5.90082,-5.87955 2.14238,-1.7157 4.42016,-3.01904 6.4398,-3.68482 1.00347,-0.3308 3.26537,-0.77205 3.96949,-0.77437 0.50236,-0.002 0.73326,-0.0809 0.73326,-0.25154 0,-0.16292 -0.11587,-0.68931 -1.10084,-5.00083 -0.36731,-1.60783 -0.95873,-4.2007 -1.31427,-5.76193 -1.60542,-7.04968 -4.78893,-20.83754 -6.56387,-28.42835 -0.0981,-0.41943 -0.48315,-2.07811 -0.85572,-3.68594 -1.47255,-6.354835 -1.91084,-7.710818 -2.49235,-7.710818 -0.39646,0 -0.56435,0.547705 -1.40254,4.575651 -0.2861,1.374817 -0.7282,3.414787 -0.98245,4.533287 -0.25425,1.11849 -0.53512,2.35773 -0.62415,2.75386 -1.78235,7.93005 -5.19984,20.92544 -7.49829,28.51309 -1.40053,4.62344 -3.22059,9.91834 -4.14874,12.06954 -1.23876,2.87108 -3.63014,5.79813 -6.08051,7.44255 -1.47743,0.99148 -2.57105,1.51877 -4.6269,2.23082 -0.68462,0.23712 -1.25585,0.44178 -1.26938,0.45479 -0.0135,0.013 0.65529,1.39164 1.48629,3.06361 1.5124,3.04292 2.6063,5.4385 3.96277,8.67825 0.39804,0.95065 0.78214,1.81764 0.85357,1.92665 l 0.12987,0.1982 0.39726,-0.23053 c 0.2185,-0.12679 0.62605,-0.38365 0.90567,-0.5708 z"
          style="opacity:1;fill:#d95319;fill-opacity:1;stroke:none;stroke-width:0.08473428;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+    <g
+       transform="matrix(2.2253884,0,0,-2.2253884,55.107047,1698.2399)"
+       inkscape:label="BU14160_proofread"
+       id="g58154-1"
+       clip-path="url(#clipPath3900)">
+      <text
+         id="text58158-1"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,2.511,830.337)">
+        <tspan
+           id="tspan58156-9"
+           sodipodi:role="line"
+           y="0"
+           x="0 6.5434356 13.734441 18.711756 23.68907 28.666386 33.6437 58.574112 64.109329 70.750397 97.327629 104.51863 109.34252 114.16641 118.58582 126.33274 131.31006 135.72946 141.57054 146.54785 151.53413 156.51144 161.48877 166.46608">BU14160PRBNovember6,2020</tspan>
+      </text>
+      <text
+         id="text58162-9"
+         style="font-variant:normal;font-weight:normal;font-size:8.96640015px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,196.1387,830.337)">
+        <tspan
+           id="tspan58160-7"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.4823031 6.9740658 11.456369">9:12</tspan>
+      </text>
+      <g
+         transform="translate(-0.098999,828.456)"
+         id="g58164-6">
+        <path
+           inkscape:connector-curvature="0"
+           id="path58166-9"
+           style="fill:none;stroke:#000000;stroke-width:0.252;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 V 23.913" />
+      </g>
+      <text
+         id="text58170-0"
+         style="font-variant:normal;font-weight:normal;font-size:11.95510006px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,194.058,757.7521)">
+        <tspan
+           id="tspan58168-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 7.3942294 16.773005 26.151781 33.546009 38.274254 46.995499 56.374275 68.154831 76.876076 84.927834 94.30661 99.034851 107.08662 123.55596">PHYSICALREVIEWB</tspan>
+      </text>
+      <text
+         id="text58174-2"
+         style="font-variant:normal;font-weight:bold;font-size:11.95510006px;font-family:'Times New Roman';-inkscape-font-specification:Times-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,329.32517,757.7521)">
+        <tspan
+           id="tspan58172-3"
+           sodipodi:role="line"
+           y="0"
+           x="0 5.9763546">00</tspan>
+      </text>
+      <text
+         id="text58178-1"
+         style="font-variant:normal;font-weight:normal;font-size:11.95510006px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,341.27669,757.7521)">
+        <tspan
+           id="tspan58176-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 5.9763546 11.952709 17.929064 23.905418 29.881773 35.858128 44.839993 48.819847 54.7962 60.772556 66.748909 72.725266">,005100(2020)</tspan>
+      </text>
+      <text
+         id="text58182-1"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,39.24,757.7521)">
+        <tspan
+           id="tspan58180-0"
+           y="0"
+           x="0">1</tspan>
+      </text>
+      <g
+         transform="translate(51.975,753.54)"
+         id="g58184-2">
+        <path
+           inkscape:connector-curvature="0"
+           id="path58186-0"
+           style="fill:none;stroke:#000000;stroke-width:0.50400001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 H 508.095" />
+      </g>
+      <text
+         id="text58190-2"
+         style="font-variant:normal;font-weight:bold;font-size:11.95510006px;font-family:'Times New Roman';-inkscape-font-specification:Times-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,163.044,704.8771)">
+        <tspan
+           id="tspan58188-3"
+           sodipodi:role="line"
+           y="0"
+           x="0 8.6327782 13.942038 20.590269 27.238501 35.52697 44.159748 49.469009 52.79372 58.772469 65.4207 72.386932 75.711647 85.351044 90.002777 95.981522 100.63325 104.61549 109.92475 119.88454 127.51669 136.14706 139.47179 143.45403 153.09343 159.06978 165.718 171.02727 180.66667 187.31729 193.29604 199.94426 206.5925 213.24072 219.21947 224.52873 233.47473 238.784 244.76274 251.41096 258.0592 261.38391 265.36615 268.69089 274.66962 281.31784">Drudeweightinsystemswithopenboundaryconditions</tspan>
+      </text>
+      <text
+         id="text58194-1"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,39.24,704.8771)">
+        <tspan
+           id="tspan58192-8"
+           y="0"
+           x="0">2</tspan>
+      </text>
+      <text
+         id="text58198-4"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,209.592,680.4691)">
+        <tspan
+           id="tspan58196-3"
+           sodipodi:role="line"
+           y="0"
+           x="0 7.1920009 11.614399 16.594704 19.911253 22.679859 27.102257 29.870863 36.791882 43.43594 47.858337 50.626945 53.39555 58.375854 66.125763 68.894371">GabrieleBellomia</tspan>
+      </text>
+      <g
+         transform="translate(290.447,683.741)"
+         id="g58200-1">
+        <path
+           inkscape:connector-curvature="0"
+           id="path58202-3"
+           style="fill:#77ac30;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c 0,-1.806 -1.464,-3.272 -3.271,-3.272 -1.806,0 -3.271,1.466 -3.271,3.272 0,1.807 1.465,3.271 3.271,3.271 C -1.464,3.271 0,1.807 0,0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path58204-7"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 286.111,682.254 h -0.39404 v 2.7368 h 0.39404 z" />
+      <g
+         transform="translate(287.081,682.607)"
+         id="g58206-6">
+        <path
+           inkscape:connector-curvature="0"
+           id="path58208-5"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 h 0.626 c 0.892,0 1.098,0.677 1.098,1.015 0,0.549 -0.352,1.014 -1.119,1.014 H 0 Z m -0.394,2.384 h 1.065 c 1.011,0 1.456,-0.723 1.456,-1.369 0,-0.704 -0.55,-1.37 -1.452,-1.37 h -1.069 v 2.739" />
+      </g>
+      <g
+         transform="translate(286.172,685.561)"
+         id="g58210-1">
+        <path
+           inkscape:connector-curvature="0"
+           id="path58212-6"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c 0,-0.141 -0.115,-0.258 -0.258,-0.258 -0.143,0 -0.258,0.117 -0.258,0.258 0,0.143 0.115,0.258 0.258,0.258 C -0.115,0.258 0,0.141 0,0" />
+      </g>
+      <text
+         id="text58220-2"
+         style="font-variant:normal;font-weight:normal;font-size:6.97380018px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#0072bd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,290.916,684.078)">
+        <tspan
+           id="tspan58214-6"
+           y="0"
+           x="0"
+           style="fill:#0072bd;fill-opacity:1">1</tspan>
+        <tspan
+           id="tspan58216-2"
+           y="0"
+           x="3.9778554"
+           style="fill:#0072bd;fill-opacity:1">,</tspan>
+        <tspan
+           id="tspan58218-4"
+           y="0"
+           x="6.2192349"
+           style="fill:#0072bd;fill-opacity:1">*</tspan>
+      </text>
+      <text
+         id="text58224-2"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,303.615,680.4691)">
+        <tspan
+           id="tspan58222-9"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.421402 9.4007092 16.879633 23.522696 27.944098 31.013575 34.235477 38.656879 43.078281 45.845894 52.766911 59.408978 63.830379 67.703835 70.471451">andRaffaeleResta</tspan>
+      </text>
+      <g
+         transform="translate(386.045,683.741)"
+         id="g58226-6">
+        <path
+           inkscape:connector-curvature="0"
+           id="path58228-7"
+           style="fill:#77ac30;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c 0,-1.806 -1.464,-3.272 -3.271,-3.272 -1.806,0 -3.271,1.466 -3.271,3.272 0,1.807 1.465,3.271 3.271,3.271 C -1.464,3.271 0,1.807 0,0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path58230-5"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 381.709,682.254 h -0.39404 v 2.7368 h 0.39404 z" />
+      <g
+         transform="translate(382.679,682.607)"
+         id="g58232-5">
+        <path
+           inkscape:connector-curvature="0"
+           id="path58234-3"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 h 0.626 c 0.892,0 1.098,0.677 1.098,1.015 0,0.549 -0.352,1.014 -1.119,1.014 H 0 Z m -0.394,2.384 h 1.065 c 1.011,0 1.456,-0.723 1.456,-1.369 0,-0.704 -0.55,-1.37 -1.452,-1.37 h -1.069 v 2.739" />
+      </g>
+      <g
+         transform="translate(381.77,685.561)"
+         id="g58236-7">
+        <path
+           inkscape:connector-curvature="0"
+           id="path58238-9"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c 0,-0.141 -0.115,-0.258 -0.258,-0.258 -0.143,0 -0.258,0.117 -0.258,0.258 0,0.143 0.115,0.258 0.258,0.258 C -0.115,0.258 0,0.141 0,0" />
+      </g>
+      <text
+         id="text58250-1"
+         style="font-variant:normal;font-weight:normal;font-size:6.97380018px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#0072bd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,386.505,684.078)">
+        <tspan
+           id="tspan58240-1"
+           y="0"
+           x="0"
+           style="fill:#0072bd;fill-opacity:1">2</tspan>
+        <tspan
+           id="tspan58242-2"
+           y="0"
+           x="3.4827156"
+           style="fill:#0072bd;fill-opacity:1">,</tspan>
+        <tspan
+           id="tspan58244-6"
+           y="0"
+           x="5.7324638"
+           style="fill:#0072bd;fill-opacity:1">3</tspan>
+        <tspan
+           id="tspan58246-0"
+           y="0"
+           x="9.7193851"
+           style="fill:#0072bd;fill-opacity:1">,</tspan>
+        <tspan
+           id="tspan58248-0"
+           y="0"
+           x="11.960067"
+           style="fill:#0072bd;fill-opacity:1">†</tspan>
+      </text>
+      <text
+         id="text58254-5"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,39.24,680.4691)">
+        <tspan
+           id="tspan58252-4"
+           y="0"
+           x="0">3</tspan>
+      </text>
+      <text
+         id="text58258-7"
+         style="font-variant:normal;font-weight:normal;font-size:5.9776001px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,141.84,672.261)">
+        <tspan
+           id="tspan58256-4"
+           y="0"
+           x="0">1</tspan>
+      </text>
+      <text
+         id="text58262-1"
+         style="font-style:italic;font-variant:normal;font-size:8.96640015px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,145.332,669.012)">
+        <tspan
+           id="tspan58260-3"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.9849145 7.4672179 9.9589806 13.939165 17.426199 21.908503 26.390804 28.882568 31.374331 35.856632 40.338936 44.821239 49.5555 54.037804 57.880802 62.363106 66.845406 71.327713 76.070938 78.562698 83.045006 88.778122 94.259277 98.741585 102.72177 107.20407 111.68638 115.66656 119.64674 126.37872 130.86102 133.35278 137.83508 142.3174 144.80916 148.78934 154.52246 157.50737 161.98967 164.97459 169.45689 173.93919 179.41676 182.40169 186.88399 191.69894 194.1916 200.91461 206.39577 210.87807 215.36038 219.84268 226.31552 230.2957 237.02768 241.50998 245.99229 250.47459 254.95689 259.43921 263.92151 268.40381 272.88611 279.61807 284.10934 287.60178 290.09354 294.0737 297.56073 300.05252 303.94034 308.42264 311.40756 313.89932 318.38162 320.87338">InternationalSchoolforAdvancedStudies(SISSA),ViaBonomea265,34136Trieste,Italy</tspan>
+      </text>
+      <text
+         id="text58266-3"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,39.24,669.012)">
+        <tspan
+           id="tspan58264-2"
+           y="0"
+           x="0">4</tspan>
+      </text>
+      <text
+         id="text58270-0"
+         style="font-variant:normal;font-weight:normal;font-size:5.9776001px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,158.202,660.804)">
+        <tspan
+           id="tspan58268-7"
+           y="0"
+           x="0">2</tspan>
+      </text>
+      <text
+         id="text58274-8"
+         style="font-style:italic;font-variant:normal;font-size:8.96640015px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,161.694,657.5551)">
+        <tspan
+           id="tspan58272-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.9858112 6.4737406 8.9664001 11.459059 13.951718 18.434917 20.927578 27.641619 34.11536 36.446621 40.929821 44.910904 47.403564 51.886765 58.618736 63.10104 67.082123 71.825348 79.294357 83.777557 86.270218 90.251297 93.739227 96.231888 100.71509 103.20775 107.94201 110.9305 117.40425 124.87326 127.85907 133.83966 139.82025 145.29872 149.76309 154.24539 156.73805 160.09508 164.57828 169.06148 175.79344 181.77403 186.25723 189.74516 192.23782 194.73048 198.71156 202.06859 208.78262 213.26582 217.74902 222.23132 226.71452 231.19772 235.68092 240.16412 246.8961 251.38737 254.87978 257.37244 261.35352 264.84146 267.33411 271.22195 275.70425 278.69006 281.18271 285.66592 288.15857">IstitutoOffcinadeiMaterialiIOM-CNR,StradaCostiera11,34151Trieste,Italy</tspan>
+      </text>
+      <text
+         id="text58278-3"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,39.24,657.5551)">
+        <tspan
+           id="tspan58276-3"
+           y="0"
+           x="0">5</tspan>
+      </text>
+      <text
+         id="text58282-6"
+         style="font-variant:normal;font-weight:normal;font-size:5.9776001px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,182.61,649.347)">
+        <tspan
+           id="tspan58280-5"
+           y="0"
+           x="0">3</tspan>
+      </text>
+      <text
+         id="text58286-4"
+         style="font-style:italic;font-variant:normal;font-size:8.96640015px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,186.093,646.098)">
+        <tspan
+           id="tspan58284-2"
+           sodipodi:role="line"
+           y="0"
+           x="0 6.4737406 10.956941 15.440141 19.923342 23.41127 25.903929 28.396589 35.119595 38.105408 42.588608 45.081264 49.062347 52.550278 57.033478 61.516678 64.009338 66.501999 70.985199 75.468399 79.951599 84.694824 90.173294 94.656494 98.637573 102.1255 104.61816 108.59924 114.32339 120.30846 124.28954 128.77275 131.26541 135.24649 138.73442 143.21672 147.69992 152.18312 156.66632 161.14952 167.8815 172.3647 176.8479 183.57986 188.06306 192.04414 196.52734 201.01054 204.49847 206.99113 209.4838 213.967 218.4502 222.9325 227.4157 231.8989 236.3821 238.87476">DonostiaInternationalPhysicsCenter,20018SanSebastián,Spain</tspan>
+      </text>
+      <text
+         id="text58290-5"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,39.24,646.098)">
+        <tspan
+           id="tspan58288-0"
+           y="0"
+           x="0">6</tspan>
+      </text>
+      <g
+         id="g58292-1">
+        <g
+           clip-path="url(#clipPath58298-0)"
+           id="g58294-3">
+          <g
+             clip-path="url(#clipPath58304-9)"
+             id="g58300-1">
+            <g
+               clip-path="url(#clipPath58310-7)"
+               id="g58306-4">
+              <g
+                 transform="matrix(13.923,0,0,-13.344,110.988,633.372)"
+                 id="g58312-9">
+                <image
+                   id="image58314-4"
+                   xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAAA4CAYAAACsc+sjAAAABHNCSVQICAgIfAhkiAAAAi1JREFUaIHtWU2TgyAMTVIPu9PD9v//xe6he+x0bPYAoaLFRgo4pr6LGl58hI+AiNfrlX/PZ7CKn9MJjscjdH3fw+Xyt3Z9quHr+9sFiohAhGvXpxoQXWzd8MEyHoEiAjBPGTXtLTQ9OgQEJJoUpByK2ytrxkMXEBgYEKbkmvYmmpM5yom5mrA/e/Ec/6m9gabAB5pOSEsT1ZL3tNCUxukAAYgImF03t7hKJVppuUAleiIA5pCY0NVmevUZ7l1+iXdo+NLZXQjSkwb9/vyqtS3l19L06FBawCqGWdc9O4OMb8HweVym4aTKcnxyNAUdAAAhDRogJgyfNVlS65/jk6MpcIFmbOpTLV0TOZrk848buhkVXmNev6NpPxl5hMkpwT67zpXlcEtxNNxoryvjOOWgFdRyS3E0XIH5oRv1aOqrwO+kZm0azrKK1dEMXy9zwq9sGs4SlNSMe9RvlgM71XxL71v5KLq8iwpTTZMq09y38kn4P75HYZ3FvzXMZ12B/R71oU2+XqzCD921q1EP0fJiOlIP83M03jAgqo4sSttbaApCoJoji9L2FpqhR/d11Agmc9Q6Jue6gvF/jJJl4/uamuHEgZn5drvNN8eGcTgcgIjA/t7PIzlHZSiUetaghmY0dPu+X1ShLYGIABFf74zG0PzQ0fi945vjh8zM9/v9pdNWEf17+YR1lADyTsLn7LVO6nM0QzkvTY0bxceso3ug1rAHag17oNawB2oN/7D2nJUBoyVqAAAAAElFTkSuQmCC"
+                   transform="matrix(1,0,0,-1,0,1)"
+                   preserveAspectRatio="none"
+                   style="image-rendering:optimizeSpeed"
+                   height="1"
+                   width="1" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g58316-4">
+        <g
+           clip-path="url(#clipPath58322-7)"
+           id="g58318-2">
+          <g
+             transform="translate(111.646,633.227)"
+             id="g58324-6">
+            <path
+               inkscape:connector-curvature="0"
+               id="path58326-6"
+               style="fill:none;stroke:#a09e9f;stroke-width:0.21600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               d="m 0,0 h 12.4 c 0.192,0 0.288,-0.096 0.288,-0.288 v -12.4 c 0,-0.192 -0.096,-0.289 -0.288,-0.289 H 0 c -0.192,0 -0.289,0.097 -0.289,0.289 v 12.4 C -0.289,-0.096 -0.192,0 0,0 Z" />
+          </g>
+        </g>
+      </g>
+      <g
+         transform="translate(115.82,624.56)"
+         id="g58328-4">
+        <path
+           inkscape:connector-curvature="0"
+           id="path58330-7"
+           style="fill:#aaa8a9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 4.052,2.7 V 5.94 H 0 V 0" />
+      </g>
+      <g
+         transform="translate(119.872,624.56)"
+         id="g58332-4">
+        <path
+           inkscape:connector-curvature="0"
+           id="path58334-7"
+           style="fill:#767475;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 -4.052,2.7 V 5.94 H 0 V 0" />
+      </g>
+      <g
+         transform="translate(117.846,623.363)"
+         id="g58336-8">
+        <path
+           inkscape:connector-curvature="0"
+           id="path58338-6"
+           style="fill:#373334;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c -0.448,0 -0.878,0.086 -1.292,0.257 -0.414,0.172 -0.778,0.415 -1.095,0.732 -0.317,0.317 -0.56,0.681 -0.732,1.094 -0.171,0.414 -0.256,0.845 -0.256,1.292 0,0.448 0.085,0.879 0.256,1.292 0.172,0.414 0.415,0.779 0.732,1.095 0.317,0.317 0.681,0.561 1.095,0.732 C -0.878,6.666 -0.448,6.751 0,6.751 0.447,6.751 0.878,6.666 1.292,6.494 1.705,6.323 2.07,6.079 2.386,5.762 2.703,5.446 2.947,5.081 3.119,4.667 3.29,4.254 3.375,3.823 3.375,3.375 3.375,2.443 3.045,1.647 2.386,0.989 1.728,0.33 0.932,0 0,0 Z m 0,7.845 c -0.593,0 -1.163,-0.113 -1.71,-0.34 C -2.258,7.278 -2.742,6.955 -3.161,6.536 -3.58,6.117 -3.903,5.634 -4.13,5.086 -4.356,4.538 -4.47,3.968 -4.47,3.375 c 0,-0.592 0.114,-1.162 0.34,-1.71 0.227,-0.548 0.55,-1.031 0.969,-1.45 0.419,-0.419 0.903,-0.742 1.451,-0.969 0.547,-0.227 1.117,-0.341 1.71,-0.341 0.593,0 1.163,0.114 1.71,0.341 0.548,0.227 1.032,0.55 1.451,0.969 0.419,0.419 0.742,0.902 0.968,1.45 0.227,0.548 0.34,1.118 0.34,1.71 0,0.593 -0.113,1.163 -0.34,1.711 C 3.903,5.634 3.58,6.117 3.161,6.536 2.742,6.955 2.258,7.278 1.71,7.505 1.163,7.732 0.593,7.845 0,7.845" />
+      </g>
+      <g
+         transform="translate(120.323,624.452)"
+         id="g58340-2">
+        <path
+           inkscape:connector-curvature="0"
+           id="path58342-7"
+           style="fill:#aeadad;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c -0.551,-0.601 -1.23,-0.954 -2.039,-1.062 -0.807,-0.108 -1.556,0.056 -2.245,0.492 -0.689,0.434 -1.158,1.04 -1.408,1.816 -0.25,0.775 -0.222,1.541 0.083,2.296 L -6.545,4.134 C -7.004,3.118 -7.074,2.077 -6.753,1.009 c 0.319,-1.068 0.95,-1.9 1.893,-2.495 0.942,-0.596 1.964,-0.809 3.066,-0.64 1.102,0.169 2.012,0.679 2.732,1.529 L 0,0" />
+      </g>
+      <text
+         id="text58346-4"
+         style="font-variant:normal;font-weight:normal;font-size:8.96640015px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,130.779,624.03)">
+        <tspan
+           id="tspan58344-5"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.9849145 8.9646063 12.944792 16.924976 20.905161 23.17366 27.520571 31.498962 38.239902 42.722206 49.445213 52.937626 57.41993 59.91169 66.634697 71.117004 75.599304 80.081612 84.563911 89.298172 92.283089 96.036423 100.51872 103.01048 106.49752 110.47771 117.20968 121.69198 128.41499 134.88783 138.86801 141.35977 145.84209 150.32439 154.30457 159.54274 164.02504 168.50735 172.98965 177.47195 182.21518 186.19536 190.17555 194.15573 198.13593 202.61823 205.10999 209.09016 215.83112 222.55412 229.02696 233.37387 237.72078 241.69917 248.67413 253.15645 257.13663 262.37479 266.85709 271.33942 275.82172 280.30402 285.04724 289.52954 294.01184 298.49414 300.9859 303.47766 306.96469 311.44702 315.42719 322.15021 326.63251 331.11481 335.59711 340.07941 344.56171 349.04401 353.52634 358.00864 362.49094 366.97324">(Received10July2020;revised21October2020;accepted2November2020;publishedxxxxxxxxxx)</tspan>
+      </text>
+      <text
+         id="text58350-9"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,39.24,624.03)">
+        <tspan
+           id="tspan58348-3"
+           y="0"
+           x="0">8</tspan>
+      </text>
+      <text
+         id="text58356-2"
+         style="font-variant:normal;font-weight:normal;font-size:8.96640015px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,114.741,602.1151)">
+        <tspan
+           id="tspan58352-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 8.2984028 15.273366 19.253551 23.600462 28.082766 31.067678 35.047863 37.539627 41.519814 45.499996 47.99176 50.976673 55.458977 61.777599 65.755989 70.238297 74.720596 79.202904 83.685204 87.66539 90.15715 92.648918 97.131218 103.44894 106.94135 111.42366 114.91069 117.40246 121.38264 130.17599 134.65829 139.14059 143.62289 147.60309 150.42929 154.91159 159.39391 163.37408 168.70192 171.68683 174.67175 178.65193 184.45679 188.43697 192.41714 196.39734 200.37752 202.86928 206.84947 209.83438 213.81458 216.30634 218.7981 223.2804 229.60799 232.10065 238.40044 241.38893 245.36913 248.85616 253.33846 257.82077 262.30307 265.7901 271.59494 274.08762 280.39636 286.2012 293.17618 297.15637 301.13654 304.12146 308.60376 312.09079 316.07098 320.55328 325.03558 327.52734 333.34116 338.32739 342.30756 344.79932 349.28162 353.34967 358.82727 363.30957 369.11441 375.58545 378.57037 383.05267 387.53497">Amany-electronconductingsystemundergoesfreeaccelerationinresponsetoamacroscopicfeld.TheDrude</tspan>
+        <tspan
+           id="tspan58354-9"
+           sodipodi:role="line"
+           y="11.457266"
+           x="-8.9726763 -2.5007288 1.4785594 3.9694252 8.4508324 12.932239">weight</tspan>
+      </text>
+      <text
+         id="text58360-0"
+         style="font-style:italic;font-variant:normal;font-size:8.96640015px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,132.79664,590.65783)">
+        <tspan
+           id="tspan58358-9"
+           y="0"
+           x="0">D</tspan>
+      </text>
+      <text
+         id="text58364-9"
+         style="font-variant:normal;font-weight:normal;font-size:8.96640015px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,139.33942,590.65783)">
+        <tspan
+           id="tspan58362-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 8.9664001 12.947481 15.440141 18.92807 26.038425 30.019506 34.000587 36.493248 38.985909 42.966988 50.077343 54.055737 58.538937 62.520016 65.34623 69.828529 76.443939 79.936356 82.429008 84.921669 87.685112 90.673615 95.156815 99.137901 102.62583 106.11375 115.08015 122.05602 126.0371 130.01817 133.5061 137.9893 140.97513 144.95621 151.05873 153.55139 158.03459 164.64104 168.61943 173.10263 175.59529 179.57637 184.05957 188.04065 190.53331 193.02597 199.63242 202.61823 205.11089 209.23274 213.57965 217.56073 220.54654 224.03447 228.01555 233.63211 236.12477 240.60797 244.58905 247.57486 250.06752 252.56018 259.15765 263.64084 269.24753 271.7402 276.22339 282.82983 286.80823 289.3009 293.28198 297.26306 299.75571 302.74152 307.22473 311.70792 315.19586 320.31656 322.80923 327.29242">—alsocalledchargestiffness—measurestheadiabatic(inverse)inertiaoftheelectrons;the</tspan>
+      </text>
+      <text
+         id="text58368-3"
+         style="font-style:italic;font-variant:normal;font-size:8.96640015px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,473.21409,590.65783)">
+        <tspan
+           id="tspan58366-9"
+           y="0"
+           x="0">D</tspan>
+      </text>
+      <text
+         id="text58382-8"
+         style="font-variant:normal;font-weight:normal;font-size:8.96640015px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,482.37595,590.65783)">
+        <tspan
+           id="tspan58370-8"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.9858112 7.4690113 10.454823 17.430681 21.411764">formal</tspan>
+        <tspan
+           id="tspan58372-5"
+           sodipodi:role="line"
+           y="11.457266"
+           x="-376.60852 -372.76553 -368.28232 -363.79913 -360.81332 -356.83224 -353.3443 -349.85638 -347.36371 -342.88052 -335.17657 -332.19077 -328.20969 -323.7265 -319.24329 -316.75064 -313.76483 -309.78375 -303.07867 -298.59637 -294.6153 -291.62946 -289.13681 -284.65363 -280.17041 -277.67776 -270.48669 -266.00351 -261.52029 -257.03711 -252.55389 -248.07069 -244.08961 -241.10381 -233.39091 -229.40982 -224.92662 -220.44342 -215.96022 -213.46758 -210.97491 -208.48225 -203.99905 -199.51585 -196.02792 -190.5647 -182.104 -177.6208 -173.63971 -165.93579 -163.44313 -158.95993 -155.472 -152.97934 -148.99826 -145.01717 -137.31325 -130.12219 -125.63899 -121.15579 -116.67259 -112.18939 -107.70619 -103.72511 -96.021179 -92.528763 -88.547684 -81.571823 -77.088623 -74.595963 -67.395943 -64.90329 -58.20718 -54.228786 -49.745586 -45.262386 -42.276577 -38.295494 -34.807564 -31.319635 -27.338554 -19.634623 -13.163572 -10.670913 -8.1782532 -3.6950533 -1.2023942 6.4925704 10.97577 15.45897 19.440052">expressionrequiresperiodicboundaryconditions.Wheninsteadaboundedsampleisaddressedwithinopen</tspan>
+        <tspan
+           id="tspan58374-1"
+           sodipodi:role="line"
+           y="22.914532"
+           x="-376.60852 -372.12622 -367.64392 -363.16162 -358.67932 -354.19702 -350.21683 -347.2319 -339.46432 -335.48413 -331.00183 -326.51953 -322.03723 -319.54547 -317.05371 -314.56192 -310.07962 -305.59732 -302.11029 -296.58429 -292.10199 -284.34427 -280.36588 -275.88358 -272.89865 -269.91376 -265.93356 -261.45126 -255.68228 -250.69786 -246.44061 -239.96776 -233.19992 -229.21974 -224.73744 -216.97971 -209.72589 -205.7457 -201.2634 -196.7811 -193.29407 -190.80231 -186.82211 -182.33981 -176.56186 -173.57695 -169.73395 -165.25165 -162.75989 -158.77969 -155.79478 -151.31248 -147.33229 -144.84053 -138.57661 -133.59219 -129.612 -127.12024 -119.36251 -114.8802 -110.3979 -107.90614 -100.13855 -95.656242 -91.173943 -88.682182 -84.701996 -81.717079 -79.225319 -75.245132 -71.264946 -64.497108 -62.005344 -57.523041 -50.269226 -46.776814 -42.796627 -35.821663 -31.339361 -28.847599 -24.867414 -19.089466 -16.597704 -12.115399 -4.8615823 -0.01075968 3.9694252 6.95434 10.934525 15.416828 19.397013">boundaryconditions,nocurrentfowsandaconstant(external)feldonlypolarizesthesample:theFaraday</tspan>
+        <tspan
+           id="tspan58376-4"
+           sodipodi:role="line"
+           y="34.371799"
+           x="-376.60852 -372.62833 -368.64816 -364.16586 -358.18079 -354.20239 -351.43893 -348.45044 -344.47025 -340.49008 -337.99832 -333.759 -327.28793 -322.80563 -318.32333 -314.34314 -311.85138 -307.36908 -303.38892 -300.89716 -296.91696 -293.42993 -289.9429 -285.70358 -279.72748 -277.2348 -272.97757 -266.5065 -263.52161 -260.53668 -257.55176 -253.57158 -249.08928 -244.60698 -240.6268 -236.14449 -232.3015 -225.8125 -220.82629 -216.84612 -214.35434 -207.87433 -205.38167 -200.89937 -196.41707 -191.93475 -187.95457 -183.9744 -178.48427 -175.49934 -171.01704 -168.03214 -164.05194 -160.07176 -153.59174 -149.10944 -145.62241 -141.64223 -139.15045 -136.65869 -134.16693 -130.18675 -127.69498 -125.20322 -120.72092 -116.23862 -112.75159 -108.26928 -100.52859 -94.552483 -91.060066 -86.577766 -82.320518 -73.850861 -69.368553 -65.388367 -62.403454 -56.427349 -53.933792 -49.451488 -45.471306 -40.980034 -38.487377 -34.005074 -28.028967 -25.537205 -21.279957 -14.807113 -11.822199 -8.8372841 -5.8523693 -1.8721843 2.6101191 7.0924225 11.072607 15.554911 19.397909">cageeffect.Nonetheless,alow-frequencyfeldinducesforcedoscillations:Weshowherethatthelow-frequency</tspan>
+        <tspan
+           id="tspan58378-4"
+           sodipodi:role="line"
+           y="45.829063"
+           x="-376.60852 -374.11676 -371.625 -367.1427 -363.16251 -359.18234 -353.90829 -350.92337 -346.94321 -343.45615 -338.97385 -334.49155 -330.00925 -326.52222 -320.26724 -315.78494 -310.51987 -308.02722 -303.54492 -297.28101 -292.79868 -288.31638 -283.83408 -279.35178 -274.86948 -270.88928 -264.12146 -260.62903 -256.14673 -252.6597 -250.16794 -246.18776 -236.93533 -234.44267 -228.67369 -224.19138 -219.70908 -212.73412 -210.24236 -205.76006 -201.77986 -199.2881 -195.30792 -188.54008 -184.05777 -177.28993 -174.79727 -170.31497 -164.06001 -160.07983 -155.59752 -153.10576 -149.12558 -144.64328 -140.66309 -138.17133 -135.67957 -129.40668 -126.91491 -122.4326 -118.45242 -115.46751 -112.97575 -110.48398 -104.22005 -100.23987 -95.757568 -88.989723 -85.011337 -82.519569 -80.027809 -75.770561 -69.297722 -63.528736 -59.548553 -52.780712 -48.800529 -46.308765 -43.817005 -39.836819 -36.851906 -32.369602 -28.389416 -25.897654 -23.629154 -19.282244 -13.018316 -9.2649813 -5.0077343 -1.0293428 1.4624199 5.9447231 9.9249077 12.416671 14.908433 19.390738">linearresponseoftheboundedsystemisdominatedbytheadiabaticinertiaandallowsanalternativeevaluation</tspan>
+        <tspan
+           id="tspan58380-9"
+           sodipodi:role="line"
+           y="57.286331"
+           x="-376.60852 -372.12622">of</tspan>
+      </text>
+      <text
+         id="text58386-2"
+         style="font-style:italic;font-variant:normal;font-size:8.96640015px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,115.47893,533.3715)">
+        <tspan
+           id="tspan58384-3"
+           y="0"
+           x="0">D</tspan>
+      </text>
+      <text
+         id="text58390-8"
+         style="font-variant:normal;font-weight:normal;font-size:8.96640015px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,122.02172,533.3715)">
+        <tspan
+           id="tspan58388-5"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.4912696 9.4756918 11.967454 18.942417 23.424721 25.916483 29.896667 32.388432 34.880192 39.362495 43.844799 49.577915 54.060219 60.783226 67.758186 72.240494 76.722794 80.70298 85.446205 89.928513 94.410812 98.390999 101.37591 105.85822 108.34998 115.32494 119.30512 123.78743 127.27446 129.76622 134.24852 138.73083 142.71101 147.45424 150.94666 155.42896 158.91599 161.40775 165.38794 172.3629 178.08705 182.56935 186.54955 193.52451 198.00681 202.48911 205.97614 208.46791 211.45282 215.433 217.92476 224.15283 228.63513 233.11743 238.34663 245.32159 249.30179 251.79355 258.52551 265.50049 269.48068 272.96771 276.45474 280.43491 284.91724 288.8974">.Simulationsonmodelone-dimensionalsystemsdemonstrateourmainmessage.</tspan>
+      </text>
+      <text
+         id="text58406-7"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,39.24,602.1151)">
+        <tspan
+           id="tspan58392-3"
+           y="0"
+           x="0">9</tspan>
+        <tspan
+           id="tspan58394-5"
+           sodipodi:role="line"
+           y="11.45699"
+           x="-2.7720935 -0.00049812999">10</tspan>
+        <tspan
+           id="tspan58396-9"
+           sodipodi:role="line"
+           y="22.91398"
+           x="-2.7720935 -0.00049812999">11</tspan>
+        <tspan
+           id="tspan58398-6"
+           sodipodi:role="line"
+           y="34.370972"
+           x="-2.7720935 -0.00049812999">12</tspan>
+        <tspan
+           id="tspan58400-6"
+           sodipodi:role="line"
+           y="45.827961"
+           x="-2.7720935 -0.00049812999">13</tspan>
+        <tspan
+           id="tspan58402-4"
+           sodipodi:role="line"
+           y="57.28495"
+           x="-2.7720935 -0.00049812999">14</tspan>
+        <tspan
+           id="tspan58404-2"
+           sodipodi:role="line"
+           y="68.741943"
+           x="-2.7720935 -0.00049812999">15</tspan>
+      </text>
+      <text
+         id="text58412-6"
+         style="font-variant:normal;font-weight:normal;font-size:8.96640015px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,105.768,513.447)">
+        <tspan
+           id="tspan58408-0"
+           sodipodi:role="line"
+           y="0"
+           x="0 6.4728441 12.945688 15.930603">DOI:</tspan>
+        <tspan
+           id="tspan58410-2"
+           sodipodi:role="line"
+           y="0"
+           x="20.672932 25.154339 29.635746 31.875551 36.35696 40.838364 45.319771 49.801178 52.292046 57.27557 61.756977 66.23838 69.724518 75.703316 79.45665 83.938057 89.916855 92.156662 96.638069 101.11948 103.35928 107.84068 112.32209 116.8035 121.2849 125.76631">10.1103/PhysRevB.00.005100</tspan>
+      </text>
+      <text
+         id="text58416-3"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,513.447)">
+        <tspan
+           id="tspan58414-1"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">16</tspan>
+      </text>
+      <text
+         id="text58420-2"
+         style="font-variant:normal;font-weight:bold;font-size:8.96640015px;font-family:'Times New Roman';-inkscape-font-specification:Times-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,134.046,470.346)">
+        <tspan
+           id="tspan58418-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.489723 9.4658289 12.955551 19.431086 25.413467 31.61463 38.592281 45.067818 51.54335 58.018883 64.001266 67.49099 74.468643">I.INTRODUCTION</tspan>
+      </text>
+      <text
+         id="text58424-6"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,470.346)">
+        <tspan
+           id="tspan58422-1"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">17</tspan>
+      </text>
+      <text
+         id="text58428-6"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,63.927,452.913)">
+        <tspan
+           id="tspan58426-7"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.3155532 6.6311064 9.94666 14.368062 17.135672 21.303028 26.028288 30.44969 35.428997 39.850399 48.265808 53.245117 60.534752 63.302361 68.28167 76.670174 81.649483 86.628792 91.608101 96.58741 101.56671 105.98811 109.30367 118.27699 122.69839 127.6777 132.657 137.63631 140.40392 143.17152 145.93913 150.91844 155.89775 163.76422 166.53183 175.47824 178.24586 183.22516 191.61368 194.38527 199.36458 203.78598 207.10153 214.85045 219.82976 224.80905 229.78836">Irrelevanceoftheboundaryconditionsinthethermody-</tspan>
+      </text>
+      <text
+         id="text58432-4"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,452.913)">
+        <tspan
+           id="tspan58430-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">18</tspan>
+      </text>
+      <text
+         id="text58436-2"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,441.456)">
+        <tspan
+           id="tspan58434-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9803038 9.4027023 17.152609 19.921215 29.749319 32.517925 35.286533 43.036438 45.805046 53.977367 56.745972 66.016174 75.844276 80.824585 85.246979 89.121437 91.890038 101.71815 104.48676 108.90915 113.88946 118.31185 126.49314 131.47345 140.1947 144.06915 146.83777 151.26016 154.02876 156.79738 160.67183 163.44044 166.20905 170.63144 175.05385 183.22617 190.97607 195.39847 199.82086 204.80116 209.22357 214.20387 216.97247 221.39488 230.70094 235.12334 240.10364">namiclimitisabasictenetofstatisticalmechanicsand</tspan>
+      </text>
+      <text
+         id="text58440-4"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,441.456)">
+        <tspan
+           id="tspan58438-8"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">19</tspan>
+      </text>
+      <text
+         id="text58444-9"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,429.9991)">
+        <tspan
+           id="tspan58442-5"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.421402 9.4007092 14.380017 19.359324 23.780725 28.760035 32.633492 37.054893 46.675777 54.424686 58.846088 61.613701 64.38131 68.802711 76.749878 81.727196 86.650711 91.628021 95.50148 98.269096 102.6905 106.56396 113.70116 120.89217 128.64108 133.62038 138.59969 148.21161 150.97922 155.95853 165.00357 169.98288 174.96219 178.83565 182.70911 185.47672 190.45602 193.22363 202.26868 206.69008 211.66939 216.6487 219.41631 223.83771 228.25911 236.77315 241.75246">condensedmatterphysics.Amongthepossiblechoicesof</tspan>
+      </text>
+      <text
+         id="text58448-4"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,429.9991)">
+        <tspan
+           id="tspan58446-3"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">20</tspan>
+      </text>
+      <text
+         id="text58452-7"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,418.542)">
+        <tspan
+           id="tspan58450-1"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9793077 9.9586153 14.937922 19.917231 24.896538 29.31794 32.633492 41.165462 45.586864 50.566174 55.545479 60.524788 63.292397 66.060005 68.827621 73.806923 78.786232 82.659691 88.69902 91.470619 98.562988 107.06806 111.48946 114.80502 122.76115 127.73846 131.05402 136.03333 143.78224 146.54985 151.52916 155.95056 160.92986 163.69748 170.01575 176.65782 181.63713 184.95268 189.93199 194.9113 199.69035 204.66966 209.64897 212.96452 220.15553 224.57693 227.89249 235.64139 240.06279">boundaryconditions,twoareprominent:Born–von-Kàrmàn</tspan>
+      </text>
+      <text
+         id="text58456-7"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,418.542)">
+        <tspan
+           id="tspan58454-9"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">21</tspan>
+      </text>
+      <text
+         id="text58460-1"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,407.0851)">
+        <tspan
+           id="tspan58458-8"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9793077 9.4007092 12.716263 15.483873 20.463181 25.442488 28.210098 39.541561 44.520866 49.500175 54.479481 59.45879 64.438095 68.859497 72.175049 84.082352 88.503754 93.483063 98.462372 103.44167 106.20929 108.9769 111.74451 116.72382 121.70312 132.50357 135.81912 141.35634 147.9994 154.64247 158.51593 168.73955 173.16095 178.14026 190.03859 192.8062 197.78551 209.11697 212.9964 217.97571 221.29126 225.71266 230.13406 232.90167 235.66928 240.09068">periodicboundaryconditions(PBCs)andtheso-called</tspan>
+      </text>
+      <text
+         id="text58464-8"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,407.0851)">
+        <tspan
+           id="tspan58462-7"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">22</tspan>
+      </text>
+      <text
+         id="text58468-8"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,395.628)">
+        <tspan
+           id="tspan58466-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.421402 9.4007092 14.380017 18.801418 23.780725 31.484804 36.464111 41.44342 46.422726 51.402035 56.381344 60.802746 64.118294 72.389244 76.810646 81.789955 86.769264 91.748573 94.516182 97.283791 100.0514 105.03071 110.01002 117.16515 120.48071 127.67171 134.31477 140.95784 144.8313 148.14685 153.89825 157.21381 162.19312 166.06657 171.04588 174.26779 178.68719 185.27547 189.69489 196.83208 201.2515 209.50452 212.27611 217.25542 220.02303 224.44443 229.42374 233.2972 235.81674 240.64062">“open”boundaryconditions(OBCs).Insofarasanintensive</tspan>
+      </text>
+      <text
+         id="text58472-1"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,395.628)">
+        <tspan
+           id="tspan58470-8"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">23</tspan>
+      </text>
+      <text
+         id="text58476-0"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,384.1711)">
+        <tspan
+           id="tspan58474-3"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9793077 9.9028244 14.882132 18.75559 21.523201 25.944603 30.366005 37.376686 42.355995 47.3353 51.208759 55.630161 58.945717 63.670975 68.092377 73.071686 75.839294 84.50676 87.278351 95.36898 99.790382 104.76969 112.5186 117.49791 122.47722 125.24483 129.66623 138.8916 142.20715 145.52271 150.50201">physicalobservableiscomputedfrom</tspan>
+      </text>
+      <text
+         id="text58480-1"
+         style="font-style:italic;font-variant:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,214.45305,384.1711)">
+        <tspan
+           id="tspan58478-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9812999 9.9625998 12.732203 15.501805">fnite</tspan>
+      </text>
+      <text
+         id="text58484-8"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,238.60937,384.1711)">
+        <tspan
+           id="tspan58482-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.3155532 7.7369552 12.158357 14.925967 17.693577 22.114979 26.536381 29.303991 32.071602 37.050911 42.030216 50.138779 55.118084">realizationsof</tspan>
+      </text>
+      <text
+         id="text58488-5"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,384.1711)">
+        <tspan
+           id="tspan58486-5"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">24</tspan>
+      </text>
+      <text
+         id="text58492-7"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,372.7141)">
+        <tspan
+           id="tspan58490-5"
+           sodipodi:role="line"
+           y="0"
+           x="0 9.1347084 14.112023 16.631565 21.455456 25.876858 35.597366 39.470825 44.450134 48.323593 51.091202 55.512604 63.261513 70.470451 73.24205 78.221352 87.356064 90.123672 97.216049 106.91763 111.33903 116.31834 121.29765 124.06525 128.48665 132.90805 141.51176 146.49107 149.25868 153.68008 156.44769 166.14926 170.0287 175.00801 182.75693 186.92429 194.11528 199.09459 203.51599 211.02182 216.00113 218.76874 221.83821 225.15875 229.58015 232.89571 237.31711 242.2964">agivensystem,thetwochoicesyieldsomewhatdifferent</tspan>
+      </text>
+      <text
+         id="text58496-8"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,372.7141)">
+        <tspan
+           id="tspan58494-9"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">25</tspan>
+      </text>
+      <text
+         id="text58500-1"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,361.257)">
+        <tspan
+           id="tspan58498-7"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.3165495 7.7389479 11.613402 16.593706 19.362312 22.13092 26.005375 32.053669 38.245426 42.667824 49.004036 53.984341 58.964645 66.956642 71.936943 76.917252 80.791702 83.56031 88.540611 91.309219 95.731621 98.500229 102.92262 110.36568 113.13728 118.11758 122.53998 128.87619 131.64481 136.62511 144.60814 147.37973 151.80212 154.94334 159.92365 164.34604 167.66258 171.53705 176.51735 180.3918 183.16042 187.58281 198.89633 201.66495 204.43355 212.18346 214.95206 221.27034 226.25064 229.01926 233.44165 236.21025 241.19057">results.Yetonepostulatesthatthelarge-systemlimityields</tspan>
+      </text>
+      <text
+         id="text58504-3"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,361.257)">
+        <tspan
+           id="tspan58502-9"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">26</tspan>
+      </text>
+      <text
+         id="text58508-8"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,349.8)">
+        <tspan
+           id="tspan58506-1"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7676103 7.7469177 14.65897 18.538406 22.959808 30.708717 37.629738 42.355 46.776398 49.54401 54.523315 61.444336 64.759888 69.739197 75.553368 79.972778 84.796669 92.284561 95.05217 100.03148 102.79909 107.22049 112.1998 116.07326 118.5928 123.41669 130.33771 135.31502 140.23854 145.21585 149.08931 151.85692 156.27832 160.69972 165.98289 170.9622 175.94151 179.81497 184.23637 187.55193 192.27719 196.69859 201.67789 204.44551 208.86691">thesamevalueforanyintensivephysicalobservable.</tspan>
+      </text>
+      <text
+         id="text58512-9"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,349.8)">
+        <tspan
+           id="tspan58510-5"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">27</tspan>
+      </text>
+      <text
+         id="text58516-0"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,63.927,338.343)">
+        <tspan
+           id="tspan58514-2"
+           sodipodi:role="line"
+           y="0"
+           x="0 5.2831669 14.120989 19.100296 27.389179 35.138092 40.117397 43.432949 51.712868 55.586327 60.565636 64.987038 69.40844 72.176048 77.713264 82.134666 88.488808 95.679817 103.95973 111.15073 113.91834 116.68596 123.31009 127.73149 132.7108 137.69011 141.56357 144.33118 149.31049 153.73189 160.91393 165.89323 170.31464 173.08224 177.80751 188.86897 191.63658 196.61589 204.89581 209.87312 213.18867 218.16798 223.14729 228.1266">Tobemorespecifc,wewillconsiderbelowtheground</tspan>
+      </text>
+      <text
+         id="text58520-6"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,338.343)">
+        <tspan
+           id="tspan58518-3"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">28</tspan>
+      </text>
+      <text
+         id="text58524-7"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,326.886)">
+        <tspan
+           id="tspan58522-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.8734589 6.6410689 11.062471 13.830081 22.074133 27.051447 34.188656 42.441673 50.190582 54.611984 59.033386 62.348938 67.328247 71.201706 75.623108 80.602417 85.581726 88.349335 92.770737 97.192139 99.959747 102.72736 111.55621 116.53552 121.51483 129.26373 134.24304 139.22235 143.64375 148.62306 153.04446 158.02377 163.00308 170.74303 174.61649 179.59579 183.46925 186.23686 190.65826 202.22285 207.20215">stateofamacroscopicallyhomogeneoussystemof</tspan>
+      </text>
+      <text
+         id="text58528-5"
+         style="font-style:italic;font-variant:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,266.32931,326.886)">
+        <tspan
+           id="tspan58526-8"
+           y="0"
+           x="0">N</tspan>
+      </text>
+      <text
+         id="text58532-1"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,277.69663,326.886)">
+        <tspan
+           id="tspan58530-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.4204054 7.1870198 11.607426 16.02783">elec-</tspan>
+      </text>
+      <text
+         id="text58536-2"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,326.886)">
+        <tspan
+           id="tspan58534-7"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">29</tspan>
+      </text>
+      <text
+         id="text58540-1"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,315.429)">
+        <tspan
+           id="tspan58538-0"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7676103 6.0831637 11.062471 16.041779 21.927683 26.349085 31.328392 38.32114 44.755985 49.735291 54.156693 59.136002 61.90361 65.219162 69.640564 72.40818 75.175789 79.597191 82.364799 87.344109 94.345825 99.325127 103.74653 108.16793 113.14724 118.12655 121.4421 126.42141 131.40071 136.38002 143.39967 148.37898 153.70697 158.68628 163.66559 168.08699 170.8546 175.276 180.06403 182.83165 189.81543 196.25027 200.67168 205.65097 210.63028 213.39789 219.83273 224.81204 229.79135 236.79308 241.77237">tronsandaneutralizingbackgroundofnucleiinacubicboxof</tspan>
+      </text>
+      <text
+         id="text58544-1"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,315.429)">
+        <tspan
+           id="tspan58542-7"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">30</tspan>
+      </text>
+      <text
+         id="text58548-1"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,303.972)">
+        <tspan
+           id="tspan58546-0"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.7790594 9.7563744 12.527969 17.505285 25.254194">volume</tspan>
+      </text>
+      <text
+         id="text58552-2"
+         style="font-style:italic;font-variant:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,83.844361,303.972)">
+        <tspan
+           id="tspan58550-4"
+           y="0"
+           x="0">L</tspan>
+      </text>
+      <text
+         id="text58556-6"
+         style="font-style:italic;font-variant:normal;font-size:6.97380018px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,89.712,307.5811)">
+        <tspan
+           id="tspan58554-8"
+           y="0"
+           x="0">d</tspan>
+      </text>
+      <text
+         id="text58560-0"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,96.453,303.972)">
+        <tspan
+           id="tspan58558-6"
+           y="0"
+           x="0">(</tspan>
+      </text>
+      <text
+         id="text58564-7"
+         style="font-style:italic;font-variant:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,99.774531,303.972)">
+        <tspan
+           id="tspan58562-0"
+           y="0"
+           x="0">d</tspan>
+      </text>
+      <text
+         id="text58568-3"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,107.7486,303.972)">
+        <tspan
+           id="tspan58566-2"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7676103 8.8159046 11.583515 16.562822 23.177988 28.155304 30.922915 38.671825 43.093227 48.072533 51.945992 54.713604 59.692909 64.672218 67.98777 72.668198 78.752357 83.731667 90.346832 94.768234 99.747543 104.72685 107.49446 111.91586 118.53103 123.51034 129.01866 134.55588 141.19893 147.842 153.90822 158.88753 164.94479 172.13579 178.77885 185.42192">isthedimension).ThechoiceofPBCsvsOBCs</tspan>
+      </text>
+      <text
+         id="text58572-9"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,303.972)">
+        <tspan
+           id="tspan58570-8"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">31</tspan>
+      </text>
+      <text
+         id="text58576-1"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,292.515)">
+        <tspan
+           id="tspan58574-7"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.421402 12.170312 17.14962 22.128927 27.108234 29.875845 36.364487 39.136082 46.70467 51.126072 56.105377 61.084686 66.063995 69.937454 72.705063 77.684372 85.280853 88.052444 95.144821 102.71341 107.69272 110.46033 113.52981 116.85034 121.27174 124.5873 129.0087 133.98801 139.36084 146.55183 149.31944 152.08707 157.06636 161.48776 164.80331 170.17615 174.05559 179.0349 183.4563 187.8777 192.2991 198.77878 202.09433 207.07364 212.98643 217.96574 222.38715 226.2606 230.68201 233.99756 236.76517 241.74448">amountstochoosingtwodifferentHilbertspacesfordescrib-</tspan>
+      </text>
+      <text
+         id="text58580-9"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,292.515)">
+        <tspan
+           id="tspan58578-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">32</tspan>
+      </text>
+      <text
+         id="text58584-8"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,281.058)">
+        <tspan
+           id="tspan58582-5"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7676103 7.7469177 15.036552 20.01586 24.995167 30.637983 34.511444 39.490749 43.364208 46.131821 50.553223 58.302132 63.387043 72.396225 75.163834 77.931442 82.910751 85.67836 92.967995 98.505211 105.14827 111.79133 117.98309 120.75069 125.73 132.4707 140.2196 144.64101 149.4649 154.44421 157.75977 162.73907 167.71838 172.69769 180.01422 187.1066 191.32774 196.15164 202.90131 206.21686 211.19617 216.17548 220.59688 223.36449 226.1321 231.1114 238.41896 241.19057">ingoursystem:WithinPBCsthemany-bodywavefunctionis</tspan>
+      </text>
+      <text
+         id="text58588-9"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,281.058)">
+        <tspan
+           id="tspan58586-8"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">33</tspan>
+      </text>
+      <text
+         id="text58592-8"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,269.601)">
+        <tspan
+           id="tspan58590-0"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9803038 9.4027023 12.719252 15.487858 20.468163 25.448465 28.217072 35.039459 42.230465 44.999073 47.767677 55.139008 60.119308 64.54171 67.858261 70.626862 75.60717">periodicwithperiod</tspan>
+      </text>
+      <text
+         id="text58596-7"
+         style="font-style:italic;font-variant:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,134.95549,269.601)">
+        <tspan
+           id="tspan58594-6"
+           y="0"
+           x="0">L</tspan>
+      </text>
+      <text
+         id="text58600-4"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,143.21747,269.601)">
+        <tspan
+           id="tspan58598-9"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.8238907 9.6477814 14.067191 19.7917 24.213102 28.634504 33.055908 40.445168 47.08823 51.509632 54.825184 57.592793 62.014194 65.887657 68.655266 73.076668 80.447998 84.8694 89.848701 94.828011 98.143562 103.12287 105.89048 110.86979 115.29119 118.0588 124.89016 129.86748 135.58302 140.00443 144.42583 148.84723">overeachCartesiancoordinateofeach</tspan>
+      </text>
+      <text
+         id="text58604-8"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,269.601)">
+        <tspan
+           id="tspan58602-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">34</tspan>
+      </text>
+      <text
+         id="text58608-4"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,258.144)">
+        <tspan
+           id="tspan58606-0"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.4223981 7.1910048 11.613402 16.035801 18.804407 22.120956 27.101261 35.786655 38.55825 43.538555 48.51886 52.941257 57.921558 62.34396 67.324265 72.304565 76.726967 81.707268 84.475876 87.244484 91.573227 97.809814 105.00082 109.98112 112.74973 115.51834 123.64583 130.83783 133.60643 136.37505 141.35535 144.12395 152.80038 159.99239 166.63644 173.2805 180.86801 183.63663 190.10733 192.87593 200.44452 203.76108 208.18347 213.16377 218.14407 220.91269 224.22923 228.65163 237.34599 240.11758">electronindependently,whilewithinOBCsitisrequiredto</tspan>
+      </text>
+      <text
+         id="text58612-2"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,258.144)">
+        <tspan
+           id="tspan58610-5"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">35</tspan>
+      </text>
+      <text
+         id="text58616-1"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,246.687)">
+        <tspan
+           id="tspan58614-1"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.7252612 9.1466627 14.125971 16.893581 20.76704 28.245964 35.43697 40.416275 44.837677 49.816986 53.984341 58.808231 63.227642 69.06871 75.989731 80.411133 85.390442 90.369751 93.685303 98.664612 101.43222 106.41153 110.83293 113.60054 120.53053 123.30212 129.66524 134.64455 139.62384 142.39146 146.26492 149.03253 154.01184 160.93285 163.70045 168.67976 175.59183 180.57112 185.55043 190.52974">vanishwheneveracoordinateisoutsidethebox.</tspan>
+      </text>
+      <text
+         id="text58620-9"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,246.687)">
+        <tspan
+           id="tspan58618-1"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">36</tspan>
+      </text>
+      <text
+         id="text58624-5"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,63.927,235.2301)">
+        <tspan
+           id="tspan58622-2"
+           sodipodi:role="line"
+           y="0"
+           x="0 5.5372128 10.516521 18.26543 26.185698 28.957293 33.9366 36.704212 41.125614 46.104919 49.978378 52.497921 57.321812 65.251045 70.228363 75.151878 80.129189 84.002647 86.770264 91.191666 95.613068 101.89548 106.87479 111.8541 115.72755 120.14896 123.46451 128.18977 132.61118 137.59048 140.35809 144.7795 152.16875 156.59015 159.9057 167.817 172.79631 177.77562 182.75493 187.73424 191.04979 196.0291 201.00841 203.77602 208.19742 215.94633 220.36774 223.13535 225.90295 230.32436">Someintensivephysicalobservablesarenonproblematic:</tspan>
+      </text>
+      <text
+         id="text58628-3"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,235.2301)">
+        <tspan
+           id="tspan58626-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">37</tspan>
+      </text>
+      <text
+         id="text58632-3"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,223.7731)">
+        <tspan
+           id="tspan58630-7"
+           sodipodi:role="line"
+           y="0"
+           x="0 6.0871487 11.068449 13.838052 20.651474 23.421076 27.296528 32.723156 37.142567 39.633217 44.614517 47.105164 52.531792 55.301395 60.282696 67.645058 72.068451 76.491844 80.367294 87.738625 92.715942 98.970459 102.8499 107.8312 112.25459 116.67799 119.44759 122.76514 127.18853 132.90308 137.88039 141.19794 146.17923 151.16054 155.58394 158.90147 161.67108 164.44069 168.86407 172.73953 178.17513 185.36812 191.0737 196.6129 201.59421 204.36382 207.13341 214.50475 218.38019 221.1498 225.5732 232.92659 235.69618 240.67749">Thisis,e.g.,thecaseofspectralproperties.Atfnitesizethe</tspan>
+      </text>
+      <text
+         id="text58636-5"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,223.7731)">
+        <tspan
+           id="tspan58634-2"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">38</tspan>
+      </text>
+      <text
+         id="text58640-9"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,212.316)">
+        <tspan
+           id="tspan58638-8"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.8744552 8.8547592 13.277157 17.699554 20.468163 23.784712 30.228521 34.650921 37.967468 44.411278 49.388592 52.1572 56.031654 60.454052 63.770603 68.193001 70.961609 77.405418 84.59642 87.365028 90.133636 95.113937 97.882545 104.8753 109.8556 114.8359 117.60451 124.61519 131.8062 138.45026 145.09431 150.98918 155.41158 160.39188 167.40256 172.94078 179.58484 186.22888 190.10335 194.62138 199.04378 204.02408 211.0258 216.0061 218.7747 221.84419 225.16472 229.58713 232.90367 237.32607 242.30637">spectraarediscretewithinbothOBCsandPBCs,anddifferent</tspan>
+      </text>
+      <text
+         id="text58644-8"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,212.316)">
+        <tspan
+           id="tspan58642-0"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">39</tspan>
+      </text>
+      <text
+         id="text58648-5"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,200.859)">
+        <tspan
+           id="tspan58646-0"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9803038 9.4027023 12.171309 19.36331 23.785707 28.208105 35.704964 38.473568 43.453873 47.87627 55.626179 59.500633 63.923031 66.691635 71.515526 75.937927 79.812378 84.816597 88.137131 95.616051 98.38765 103.36795 110.29794 113.06654 117.48895 120.63015 125.61045 130.03285 133.3494 137.22386 142.20416 146.07861 148.84723 153.26962 163.52113 166.28975 169.05835 176.80826 179.57686 184.8421 187.6107 192.591 199.521 202.29259 209.38496 216.86389 220.73834 225.71864 230.14104 234.56345 237.33205 240.64859">betweenthemselves.Inthelarge-systemlimitthetwospectra</tspan>
+      </text>
+      <text
+         id="text58652-6"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,200.859)">
+        <tspan
+           id="tspan58650-2"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">40</tspan>
+      </text>
+      <text
+         id="text58656-7"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,189.402)">
+        <tspan
+           id="tspan58654-2"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9793077 9.4007092 13.822111 18.801418 26.550329 34.65889 39.080292 44.059597 49.038906 51.806515 54.574127 59.553432 64.532738 69.512047 74.491356 82.05098 86.472382 91.451683 100.11018 104.53159 109.51089 112.2785 117.25781 121.67921 124.44682 129.42613 133.84753 140.02135 145.00066 147.76826 152.18967 154.95729 159.93658 162.70421 167.6835 176.34201 179.10962 184.08893 192.17955 196.05899 200.48039 208.22929 216.31993 221.29924 225.72064 230.69994 234.57339 237.34102 240.10863">becomecontinuousandcoincide,yieldingthesamedensity</tspan>
+      </text>
+      <text
+         id="text58660-0"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,189.402)">
+        <tspan
+           id="tspan58658-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">41</tspan>
+      </text>
+      <text
+         id="text58664-1"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,177.9451)">
+        <tspan
+           id="tspan58662-1"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9803038 11.145161 15.019616 17.788221 22.210621 24.979227 29.401625 33.276081 38.613045 41.933578 46.913883 51.894188 56.316586 60.738983 65.719284 71.074188 73.842789 79.449745 82.218346 88.941109 96.20385 100.08328 102.85189 107.27428 112.25459 117.23489 121.6573 124.97385 132.81242 137.0784 141.9023 146.3217 149.63824 154.06065 156.82925 160.7037 167.98438 170.75598 178.57661 183.40051 187.82291 191.13945 193.90807 197.22461 205.05421 207.82582 212.80612 215.57472 222.29749 225.06908 232.88972 235.66132 240.64162">ofstates.Indeed,itisastandardexercisetoverifythisinthe</tspan>
+      </text>
+      <text
+         id="text58668-6"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,177.9451)">
+        <tspan
+           id="tspan58666-3"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">42</tspan>
+      </text>
+      <text
+         id="text58672-2"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,166.4881)">
+        <tspan
+           id="tspan58670-2"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.8734589 8.852766 13.274168 17.69557 20.463181 24.884583 30.76152 35.182922 39.604324 43.477783 50.992573 55.969887 62.386799 69.910553 73.226105 76.541656 80.963058 85.38446 88.70002 93.121422 95.88903 100.31043 104.73183 107.49944 110.81499 115.7943 123.87596 128.79948 133.22089 137.09435 142.69232 149.88333 154.86264 157.63025 162.05165 170.13332 174.55472 178.97612 187.05779 192.03708 199.56084 206.65321 211.63052 214.94609 219.82378 224.24518 232.32684 237.30614 242.28545">specialcaseofafree-electrongas,whichcanbeworkedout</tspan>
+      </text>
+      <text
+         id="text58676-7"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,166.4881)">
+        <tspan
+           id="tspan58674-1"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">43</tspan>
+      </text>
+      <text
+         id="text58680-1"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,155.031)">
+        <tspan
+           id="tspan58678-5"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.4223981 9.4027023 13.8251 16.593706 21.574011 24.342617 27.111223 31.533621 35.95602 38.724625 41.493233 45.821983 50.708637 56.246845 61.22715 68.977058 75.781509 80.758827 83.527435 88.507736 92.930138 98.635719 103.61602 106.93257 111.91287 116.89318 121.31557 124.63213 127.40073 130.16934 134.59174 140.85622 145.27563 148.59218 155.39664 163.14655 168.12685 171.44339 178.24785 183.22815 186.54471 191.52501 196.50531 199.27391 203.69632 211.44623 215.86862 218.63722 221.40584 225.82823 230.71489 235.13728 240.11758">analytically.Someotherpropertiesaremoreproblematic,and</tspan>
+      </text>
+      <text
+         id="text58684-7"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,155.031)">
+        <tspan
+           id="tspan58682-8"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">44</tspan>
+      </text>
+      <text
+         id="text58688-5"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,143.574)">
+        <tspan
+           id="tspan58686-8"
+           sodipodi:role="line"
+           y="0"
+           x="0 7.1920009 11.614399 14.930948 21.680611 26.660913 31.641218 36.621521 41.043919 44.36047 48.234924 51.003532 55.983833 60.964138 68.290634 71.607185 76.029579 78.798187 83.220589 85.989197 88.509727 93.333618 97.753029 100.52164 107.83916 111.15572 115.57812 120.00051 124.42291 129.40321 132.17183 134.94043 139.92073 145.03255 148.35307 155.66064 158.43224 163.41254 166.18115 172.38187 176.80128 179.56989 183.99228 187.86674 194.07643 198.49883 201.81538 208.56503 212.98445 215.75305 220.17545 224.59785 227.36646 230.68301 233.45161 237.87401 242.2964">wereunderstoodrelativelyrecently:Inthisclassareelectrical</tspan>
+      </text>
+      <text
+         id="text58692-5"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,143.574)">
+        <tspan
+           id="tspan58690-9"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">45</tspan>
+      </text>
+      <text
+         id="text58696-4"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,132.117)">
+        <tspan
+           id="tspan58694-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9803038 9.9606075 12.729214 17.151611 20.468163 23.236769 27.659166 32.081566 34.85017 37.618778 42.599083 49.673523 54.095921 59.076225 66.150665 71.130974 74.447517 79.427826 82.196434 84.965034 89.387436 94.238228 101.98714 106.40953 111.38984 116.37014 120.79254 123.56115 126.32975 130.75215 135.17455 137.94316 140.71176 145.69206 150.67236 160.63397 163.40257 168.38289 172.64886 179.75021 184.17261 187.48915 193.99573 196.76733 200.08388 202.60442 207.58472 210.35333 214.77573 219.63548 226.82748 229.59608 232.3647 237.345 240.1136">polarizationandorbitalmagnetization—theyaretrivialwithin</tspan>
+      </text>
+      <text
+         id="text58700-4"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,132.117)">
+        <tspan
+           id="tspan58698-1"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">46</tspan>
+      </text>
+      <text
+         id="text58704-9"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,120.6601)">
+        <tspan
+           id="tspan58702-3"
+           sodipodi:role="line"
+           y="0"
+           x="0 7.1910048 13.834066 20.477129 26.525423 30.946825 35.926132 43.081272 48.060577 50.82819 55.807495 60.786804 63.554413 70.718521 75.69783 80.677132 85.656441 88.424049 91.739609 94.259148 99.238457 102.00607 106.42747 111.37788 118.56889 121.33649 124.10411 129.08342 131.85103 138.99719 144.53441 151.17747 157.82054 161.694 166.63544 169.95697 174.93628 180.42667 187.01494 189.78653 194.76584 199.74515 203.0607 208.04001 213.01932 217.99863 225.16273 229.58414 234.56345 238.98485 241.75246">OBCsandhighlynontrivialwithinPBCs;forathoroughanal-</tspan>
+      </text>
+      <text
+         id="text58708-4"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,120.6601)">
+        <tspan
+           id="tspan58706-9"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">47</tspan>
+      </text>
+      <text
+         id="text58716-6"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,109.2031)">
+        <tspan
+           id="tspan58710-9"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9803038 8.8547592 11.623365 17.986479 22.966782 28.780954 33.761257 38.741562 41.51017 48.989094 53.969398 58.949699 62.824154 67.246552 70.563103 75.288368 79.710762 84.691063 87.459671 91.882072 95.756523 100.75177 104.63121 109.05361 113.47601 118.46229 122.88469 125.37434 130.35464 132.8443 137.83058 144.47264 148.89503 152.21159 157.19788">ysisofbothobservables,see,e.g.,Ref.[</tspan>
+        <tspan
+           id="tspan58712-8"
+           y="0"
+           x="160.50546">1</tspan>
+        <tspan
+           id="tspan58714-8"
+           sodipodi:role="line"
+           y="0"
+           x="165.48277 168.8033">].</tspan>
+      </text>
+      <text
+         id="text58720-7"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,36.468,109.2031)">
+        <tspan
+           id="tspan58718-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7710972">48</tspan>
+      </text>
+      <g
+         transform="translate(51.975,89.21)"
+         id="g58722-6">
+        <path
+           inkscape:connector-curvature="0"
+           id="path58724-3"
+           style="fill:none;stroke:#000000;stroke-width:0.405;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 H 35.874" />
+      </g>
+      <text
+         id="text58728-2"
+         style="font-variant:normal;font-weight:normal;font-size:5.9776001px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,57.951,72.492)">
+        <tspan
+           id="tspan58726-0"
+           y="0"
+           x="0">*</tspan>
+      </text>
+      <text
+         id="text58732-1"
+         style="font-variant:normal;font-weight:normal;font-size:8.96640015px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,61.434,69.234)">
+        <tspan
+           id="tspan58730-5"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.4814067 8.4606953 12.942101 15.92612 18.416986 22.396275 24.88714 28.866428 31.106236 35.587643 39.566929 42.057796 44.54866 49.030067 56.004135 58.494999 62.474289 70.730553 74.216682 76.70755 80.193687 83.679825 87.659111 89.898918 92.389786">gabriele.bellomia@sissa.it</tspan>
+      </text>
+      <text
+         id="text58736-8"
+         style="font-variant:normal;font-weight:normal;font-size:5.9776001px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,57.951,61.584)">
+        <tspan
+           id="tspan58734-2"
+           y="0"
+           x="0">†</tspan>
+      </text>
+      <text
+         id="text58740-2"
+         style="font-variant:normal;font-weight:normal;font-size:8.96640015px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,61.434,58.326)">
+        <tspan
+           id="tspan58738-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.9858112 6.9668927 10.454823 12.947481 16.928564 25.186617 27.679277 32.162476 39.138336 41.379936 45.361019 49.844219 52.336876 54.578476 57.071136">resta@iom.cnr.it</tspan>
+      </text>
+      <text
+         id="text58744-7"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,326.943,470.346)">
+        <tspan
+           id="tspan58742-0"
+           sodipodi:role="line"
+           y="0"
+           x="0 6.0841599 11.062471 19.360321 26.551325 29.865883 34.844193 39.822506 48.129322 55.319328 59.739735 62.506348 67.484657 72.462975">TheDrudeweight</tspan>
+      </text>
+      <text
+         id="text58748-2"
+         style="font-style:italic;font-variant:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,406.06298,470.346)">
+        <tspan
+           id="tspan58746-1"
+           y="0"
+           x="0">D</tspan>
+      </text>
+      <text
+         id="text58760-1"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,417.20515,470.346)">
+        <tspan
+           id="tspan58750-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.3175459 7.7409401 10.510543 14.385994 23.232782 27.656178 32.079571 34.849174 37.618778 42.042171 50.897926 55.321323 60.30262 64.726013 67.867226 72.848526 81.164307 85.039757 87.809357 90.578964 93.648438 96.965988 101.94729 106.37068 110.24613 114.12158 121.29465">(alsocalledchargestiffness)[</tspan>
+        <tspan
+           id="tspan58752-5"
+           y="0"
+           x="124.60323">2</tspan>
+        <tspan
+           id="tspan58754-5"
+           y="0"
+           x="129.58055">–</tspan>
+        <tspan
+           id="tspan58756-1"
+           y="0"
+           x="134.55786">6</tspan>
+        <tspan
+           id="tspan58758-7"
+           y="0"
+           x="139.53519">]</tspan>
+      </text>
+      <text
+         id="text58764-8"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,470.346)">
+        <tspan
+           id="tspan58762-5"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">49</tspan>
+      </text>
+      <text
+         id="text58768-5"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,458.889)">
+        <tspan
+           id="tspan58766-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 7.7499065 12.172305 16.594704 20.469158 25.449461 28.766012 33.188408 41.081776 43.850384 48.830688 57.264027 61.683437 64.752914 68.073448 72.49585 76.918243 79.686852 82.20739 87.031281 95.473587 100.4539 104.87629 109.85659 113.73105 116.49966 119.26826 124.24857 127.56512 130.33372 135.31403 138.63057 146.38048 150.80289 154.67734 162.56174 165.87828 170.30069 173.06929 175.83789 184.82018 189.24257 194.22289 199.20319 201.97179 205.28835 208.05695 212.836 217.81332 220.58192 223.35054 228.33084 237.32208 240.09367">measurestheeffectivedensity-to-massratiocontributingto</tspan>
+      </text>
+      <text
+         id="text58772-3"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,458.889)">
+        <tspan
+           id="tspan58770-8"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">50</tspan>
+      </text>
+      <text
+         id="text58776-1"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,447.432)">
+        <tspan
+           id="tspan58774-8"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9793077 12.899574 17.320976 20.088587 24.509989 28.931391 31.699001 35.014553 39.993862 44.973167 47.74078 55.670013 60.091415 65.070724 70.050026 75.029335 80.008644 84.430046 87.197655 89.718193 94.695511 97.46312 100.23073 104.55948 110.58087 121.26377 129.01268 131.78029 134.5479 138.9693 142.84276 145.61037 150.58968 155.56898 163.48926 168.46857 172.88997 177.86928 182.29068 189.12202 194.10133 202.57951 209.41983 214.39914 219.37845 224.35776 230.36122 233.67677 238.65608 241.77936">dcelectronicconductivity.AmilestonepaperbyKohn,for-</tspan>
+      </text>
+      <text
+         id="text58780-6"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,447.432)">
+        <tspan
+           id="tspan58778-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">51</tspan>
+      </text>
+      <text
+         id="text58784-7"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,435.975)">
+        <tspan
+           id="tspan58782-2"
+           sodipodi:role="line"
+           y="0"
+           x="0 7.7499065 12.73021 15.498816 19.921215 22.689821 27.112219 36.92239 44.113396 46.882004 49.650608 54.630913 57.399521 67.191757 72.729965 79.374023 86.018082 89.89254 97.209076 102.18639 105.50294 110.32683 115.30713 118.07574 123.05605 127.47844 137.28862 140.05722 149.84946 154.82976 159.81007 164.79037 174.60054 177.36916 182.34946 191.58379 199.3327 204.313 208.18745 215.77397 220.75427 225.17668 230.15698 234.57938 237.89594 242.31833">mulatedwithinPBCs,providedin1964themostgeneral</tspan>
+      </text>
+      <text
+         id="text58788-1"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,435.975)">
+        <tspan
+           id="tspan58786-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">52</tspan>
+      </text>
+      <text
+         id="text58792-3"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,424.518)">
+        <tspan
+           id="tspan58790-9"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9793077 9.4007092 14.937922 19.917231 22.684839 25.45245 28.22006 33.199368 40.37244 43.692974 48.672283">defnitionfor</tspan>
+      </text>
+      <text
+         id="text58796-9"
+         style="font-style:italic;font-variant:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,369.14467,424.518)">
+        <tspan
+           id="tspan58794-1"
+           y="0"
+           x="0">D</tspan>
+      </text>
+      <text
+         id="text58800-9"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,378.58523,424.518)">
+        <tspan
+           id="tspan58798-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7676103 9.9227495 14.344151 19.168043 26.332148 34.081059 38.50246 42.923862 46.239414 51.218723 55.092182 59.513584 64.492889 69.472198 72.239807 76.661209 81.082611 83.85022 86.617836 93.790909 98.77021 103.74952 111.49843 116.47774 121.45705 125.87845 130.85776 135.27916 140.25847 145.23778 151.3309 155.20436 160.18367 164.05713 166.82474 171.24614 178.99504">inanymacroscopicallyhomogeneoussystem,</tspan>
+      </text>
+      <text
+         id="text58804-9"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,424.518)">
+        <tspan
+           id="tspan58802-0"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">53</tspan>
+      </text>
+      <text
+         id="text58808-6"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,413.0611)">
+        <tspan
+           id="tspan58806-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7676103 7.7469177 12.16832 14.93593 19.915237 24.894545 27.662155 32.641464 41.596844 46.018246 50.439648 54.313107 58.734509 66.582047 73.773056 76.540665 79.308273 88.24572 93.225029 95.992638 99.866096 104.84541 108.16096 113.14027 117.56167 124.84234 129.26373 134.24304 143.19843 147.61983 150.38744 154.80884 159.23024 161.99785 165.3134 170.29271 175.27202 178.58757 183.00897 185.77658 190.19798 194.61938 197.38701 200.70256 205.68187 214.63724 217.40884 222.38815 225.15576 229.57716 232.89272 237.31412 241.73552">includingcaseswithdisorderandelectron-electroninterac-</tspan>
+      </text>
+      <text
+         id="text58812-9"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,413.0611)">
+        <tspan
+           id="tspan58810-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">54</tspan>
+      </text>
+      <text
+         id="text58816-6"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,401.604)">
+        <tspan
+           id="tspan58814-7"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7686064 5.5372128 10.517517 15.497821 19.372276 26.49155 35.500729 38.269337 41.037941 46.018246 48.786854 58.371868 65.563873 72.207932 78.85199 82.72644 89.827782 92.59938 97.579681 101.45414 104.22274 108.64514 113.06754 118.04784">tions.WithinOBCs,instead,</tspan>
+      </text>
+      <text
+         id="text58820-5"
+         style="font-style:italic;font-variant:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,440.1551,401.604)">
+        <tspan
+           id="tspan58818-0"
+           y="0"
+           x="0">D</tspan>
+      </text>
+      <text
+         id="text58824-6"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,452.0355,401.604)">
+        <tspan
+           id="tspan58822-0"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.4223981 9.4027023 14.383006 18.805405 22.121954 26.544352 31.524654 34.293262 37.061867 46.664818 51.645123 56.625427 61.047825 69.552895 74.533203 79.513504 86.902763 91.168747 96.146065 98.914673 102.78912 105.55773">apparentlydoesnotexist,</tspan>
+      </text>
+      <text
+         id="text58828-5"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,401.604)">
+        <tspan
+           id="tspan58826-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">55</tspan>
+      </text>
+      <text
+         id="text58832-0"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,390.147)">
+        <tspan
+           id="tspan58830-9"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9793077 7.4998455 12.323736 16.743145 25.779224 28.550819 33.530125 37.951527 44.755985 53.216225 58.19553 63.174839 68.154144 73.133453 78.112762 82.534164 91.570244 95.443703 99.865105 107.61401 112.59332 115.36093 123.83014 128.80945 133.78876 138.21016 146.13042 151.10973 156.08904 162.89349 166.76695 171.74626 176.72557 181.70488 186.68417 189.99974 196.81316 201.79047 210.25072 214.67212 219.65141 222.96698 226.28253 230.70393 235.68324 238.45085 242.32431">giventhataboundedsampledoesnotsupportdccurrents;</tspan>
+      </text>
+      <text
+         id="text58836-8"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,390.147)">
+        <tspan
+           id="tspan58834-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">56</tspan>
+      </text>
+      <text
+         id="text58844-3"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,378.69)">
+        <tspan
+           id="tspan58838-2"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7686064 7.7489104 16.091591 20.51399 25.494293 30.474598 34.896996 38.213543 42.635944 47.616245 54.321075 59.30138 63.723778 67.040329 71.462723 76.443031 81.423332 90.332886 97.425262 101.84467 109.63841 114.61573 117.93227 122.09963 127.07993 129.84854 134.82884 139.80916 143.68361 146.45221 155.3528 159.77519 164.75551 169.73581 173.05235 177.47475 181.34921 185.22366 189.64606 198.55562 201.32721 210.20987 216.85193 221.27432 224.59088 230.99883">theapparentparadoxwaspreviouslyaddressedinRef.[</tspan>
+        <tspan
+           id="tspan58840-8"
+           y="0"
+           x="234.29645">7</tspan>
+        <tspan
+           id="tspan58842-0"
+           sodipodi:role="line"
+           y="0"
+           x="239.27376 242.59529">],</tspan>
+      </text>
+      <text
+         id="text58848-9"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,378.69)">
+        <tspan
+           id="tspan58846-7"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">57</tspan>
+      </text>
+      <text
+         id="text58852-3"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,367.233)">
+        <tspan
+           id="tspan58850-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 7.1910048 12.170312 16.591715 19.907267 27.530649 30.302244 36.250912 43.343288 47.76469 54.830166 57.597775 62.577084 67.556389 71.977791 76.399193 84.580482 88.453941 93.43325 98.158508 105.34951 113.5308 116.3024 121.2817 125.7031 131.66074 136.08214 144.25446 148.67586 153.09726 157.51866 162.49797 165.81352 170.23492 173.00255 180.62592 183.39752 186.71307 191.13448 195.55588 198.32349 206.0724 210.4938 215.4731 221.43971 226.41901 232.92558 235.69319 240.6725">whereitwasindeedshownthatanaccuratetreatmentofthe</tspan>
+      </text>
+      <text
+         id="text58856-7"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,367.233)">
+        <tspan
+           id="tspan58854-0"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">58</tspan>
+      </text>
+      <text
+         id="text58860-0"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,355.7761)">
+        <tspan
+           id="tspan58858-9"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7686064 7.7489104 12.171309 15.487858 23.237764 28.218069 33.198372 38.178677 43.158981 47.581379 55.331284 58.099892 65.165367 67.933975 70.702583 78.452484 81.221092 86.60289 91.025284 93.793892 96.5625 101.28776 108.47976 114.97737 118.29392 122.71632 125.48492 128.80147 131.57008 135.73744 140.71774 143.48634 148.46664 156.0721 158.8407 163.82101">thermodynamiclimitallowsretrievingthe</tspan>
+      </text>
+      <text
+         id="text58864-6"
+         style="font-style:italic;font-variant:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,485.84856,355.7761)">
+        <tspan
+           id="tspan58862-5"
+           y="0"
+           x="0">D</tspan>
+      </text>
+      <text
+         id="text58868-4"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,495.73046,355.7761)">
+        <tspan
+           id="tspan58866-9"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.7252612 9.1446705 11.916265 16.893581 23.95009 28.117447 32.941338 37.360744 44.975163 48.296692 51.618221 56.595539">valueevenfrom</tspan>
+      </text>
+      <text
+         id="text58872-9"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,355.7761)">
+        <tspan
+           id="tspan58870-0"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">59</tspan>
+      </text>
+      <text
+         id="text58880-9"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,344.319)">
+        <tspan
+           id="tspan58874-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 7.192997 13.838052 23.864412 27.743849 30.513451 38.264355 43.245655 46.015255 50.438652 53.208256 55.977856 60.959156 65.94046 69.81591 75.683876 85.088577 90.069878 92.839478 95.609077 103.40282 110.04787 114.47127 117.78882 123.64782">OBCsimulations.WhileRef.[</tspan>
+        <tspan
+           id="tspan58876-7"
+           y="0"
+           x="126.95341">7</tspan>
+        <tspan
+           id="tspan58878-2"
+           sodipodi:role="line"
+           y="0"
+           x="131.93073 138.62659 141.39818 148.63402 151.95456 156.93486 161.91516 164.68378 169.10617 177.46678 180.23538 188.58704 191.35564 195.77805 198.54665 201.31526 204.08386 208.50626 216.3 224.0489 229.02922 234.00952 238.43192 241.20053">]isrootedinlatticemodels</tspan>
+      </text>
+      <text
+         id="text58884-3"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,344.319)">
+        <tspan
+           id="tspan58882-5"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">60</tspan>
+      </text>
+      <text
+         id="text58888-2"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,332.862)">
+        <tspan
+           id="tspan58886-3"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.3165495 10.508551 13.277157 16.045763 25.387693 29.810091 34.790394 44.132324 51.324326 54.092934 56.861538 61.841843 66.822144 71.802452 78.948624 81.717232 86.697533 89.466141 93.888542 97.205086 101.62749 106.04988 108.81849 111.5871 116.5674 121.54771 125.42216 132.28041 136.69983 143.83704 148.66092 153.08331 156.39987 165.74181 170.71912 173.48772 178.46802 187.81892 190.59052 195.01291 202.76282 207.74312 212.16553 215.48207 219.90446 222.67308 227.65338 230.96992 235.39233 239.26678 242.58333">(withandwithoutinteractions,atveryhightemperatures),</tspan>
+      </text>
+      <text
+         id="text58892-7"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,332.862)">
+        <tspan
+           id="tspan58890-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">61</tspan>
+      </text>
+      <text
+         id="text58896-2"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,321.405)">
+        <tspan
+           id="tspan58894-5"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9803038 9.4027023 12.719252 19.477879 26.668884 33.418545 37.840942 42.821247 47.801552 52.781857 57.893665 60.66227 65.642578 72.392235 75.708786 79.025337 83.447731 91.197639 95.364998 102.45737 107.43468 110.75124 118.06777 123.04807 128.69089 135.44055 139.86295 144.28535 147.6019 152.5822 155.89874 158.66736 163.08975 170.83966 175.81996 180.24236 183.55891 187.98131 190.74992 195.73022 199.04677 205.81436 210.23378 213.00238 217.42477 221.84718 224.61578 227.93233 232.91264 237.89294 240.66154">hereweadopttheframeworkofazero-temperatureelectronic</tspan>
+      </text>
+      <text
+         id="text58900-5"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,321.405)">
+        <tspan
+           id="tspan58898-9"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">62</tspan>
+      </text>
+      <text
+         id="text58904-1"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,309.948)">
+        <tspan
+           id="tspan58902-9"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.8744552 6.6430616 9.9596109 14.939915 19.362312 22.13092 27.111223 30.427773 34.85017 39.745792 44.726097 52.115356 56.537754 61.518059 66.49836 69.814911 74.237312 78.111763 81.986221 84.754829 89.73513 97.133354 102.11366 107.09396 112.07427 114.84287 119.82318 122.59179 127.01418 130.33073 134.75313 139.17554 141.94414 144.71274 149.69304 157.10023 161.51965 164.28825 168.71065 173.13306 175.90166 179.2182 184.19852 189.17882 195.4702 198.2388 205.61909 212.44148 217.42178 221.84419 225.16074 227.92934 232.90965 237.88995 240.65855">structure,byaddressingnoninteractingelectronsinaperiodic</tspan>
+      </text>
+      <text
+         id="text58908-3"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,309.948)">
+        <tspan
+           id="tspan58906-3"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">63</tspan>
+      </text>
+      <text
+         id="text58912-3"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,298.4911)">
+        <tspan
+           id="tspan58910-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9803038 9.9606075 12.729214 17.151611 22.131916 24.900522 27.669128 32.091526 37.869835 41.191364 43.959972 51.925072 59.332264 67.081177 71.503571 75.925972 80.906273 84.222824 89.761032 94.183434 96.952042 104.94404 108.82347 113.24587 118.22617 122.10063 126.52303 129.83958 135.321 142.51201 147.49231 153.81059 158.53584 162.95526 166.2718 169.04042 173.46281 176.23141 179.00003 183.98033 188.96063 193.38303 199.15237 203.02682 205.79544 213.54535 218.52565 221.29425 225.71664 228.48526 231.25386 236.23416 241.21448">potential(inamean-feldsense).Ourvariationalsimulations</tspan>
+      </text>
+      <text
+         id="text58916-4"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,298.4911)">
+        <tspan
+           id="tspan58914-5"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">64</tspan>
+      </text>
+      <text
+         id="text58920-7"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,287.0341)">
+        <tspan
+           id="tspan58918-1"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9793077 7.7469177 12.726225 17.705532 20.473143 23.240753 28.22006 33.199368 40.506935 43.274544 48.253853 57.200268 60.521797 64.943199 67.710808 71.878166 76.603424 81.024826 86.004135 90.425537 99.398849 104.37816 112.2257 114.99331 119.97262">highlighttherelevanceofthe</tspan>
+      </text>
+      <text
+         id="text58924-4"
+         style="font-style:italic;font-variant:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,445.4293,287.0341)">
+        <tspan
+           id="tspan58922-4"
+           y="0"
+           x="0">f</tspan>
+      </text>
+      <text
+         id="text58928-6"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,449.9563,287.0341)">
+        <tspan
+           id="tspan58926-0"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.3155532 7.1890121 12.16832 24.435268 27.755804 32.735111 35.50272 39.924122 46.943771 54.134777 59.114082 64.093391 67.96685 76.913261 81.334663 85.756065 90.177467 95.156776 98.472328 102.89373 105.66135">-sumrule,whoseaccurate</tspan>
+      </text>
+      <text
+         id="text58932-4"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,287.0341)">
+        <tspan
+           id="tspan58930-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">65</tspan>
+      </text>
+      <text
+         id="text58936-2"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,275.577)">
+        <tspan
+           id="tspan58934-7"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.3165495 8.2968531 11.06546 16.603668 19.372276 22.140882 29.890789 34.313187 39.293491 44.927341 48.243889 52.66629 57.646591 62.626896 65.3955 68.712051 73.134453 79.86618 84.846481 89.268883 93.691277 99.874069 104.29647 109.27677 117.02668 122.00698 124.77559 129.19798 131.9666 136.38899 141.36929 145.79169 149.66615 156.4158 161.39313 167.56694 170.33855 175.31885 182.59952 187.57982 192.00221 195.87668 198.64528 205.377 209.25146 213.67386 216.44246 221.77943 226.20183 232.93356 235.70216 240.68246">fulfllmentrequiresnearcompletenessofthebasisset,asthe</tspan>
+      </text>
+      <text
+         id="text58940-6"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,275.577)">
+        <tspan
+           id="tspan58938-5"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">66</tspan>
+      </text>
+      <text
+         id="text58944-4"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,264.1201)">
+        <tspan
+           id="tspan58942-3"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.8776889 9.1436739 18.49457 23.474874 28.455177 32.877575 37.85788 40.626488 43.395092 46.1637 55.514595 58.283203 67.616165 72.038567 77.018867 81.999168 84.767776 88.084328 93.064629 100.20184 102.97343 107.95374 116.7288 121.7091 126.6894 134.43932 138.86171 142.17825 144.94687 149.36926 153.79166 160.93784 165.36023 168.67677 171.99333 176.97363 184.64185 189.61916 198.96109 203.94139 208.92171 216.60785 219.92439 224.34679 228.22125 233.20155 235.97015 238.73877 242.61322">keyquantitytocontrolthenumericalerroronourresults.</tspan>
+      </text>
+      <text
+         id="text58948-0"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,264.1201)">
+        <tspan
+           id="tspan58946-2"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">67</tspan>
+      </text>
+      <text
+         id="text58952-5"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,252.6631)">
+        <tspan
+           id="tspan58950-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 8.8547592 13.834066 17.707525 23.332409 26.100019 33.84893 38.828236 43.807545 47.123096 49.890709 54.312111 59.291416 62.059029 67.413925 72.393234 77.372543 83.546364 87.967766 92.947075 97.926384 100.69399 105.11539 112.40503 117.38433 123.55816 126.32577 131.30507 138.57678 142.99818 147.41959 151.29305 158.57372 162.45314 165.22075 170.20006 175.17937 183.00897 187.98828 192.40968 195.17729 200.1566 203.47215 207.89355 210.66116 213.42879 221.26836 226.24765 229.01527 233.43668 236.20428 241.18359">Mostimportant,ourchoiceofthecasestudynaturallyyields</tspan>
+      </text>
+      <text
+         id="text58956-0"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,252.6631)">
+        <tspan
+           id="tspan58954-8"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">68</tspan>
+      </text>
+      <text
+         id="text58960-0"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,241.206)">
+        <tspan
+           id="tspan58958-7"
+           sodipodi:role="line"
+           y="0"
+           x="0 7.6233816 12.04279 14.811398 19.233795 23.656193 30.181696 35.161999 40.085518 45.065823 48.940277 51.708881 56.131283 60.55368 66.548172 69.31678 74.297089 77.065689 81.488091 84.804642 89.784943 93.101494 97.523888 100.2925 104.7149 107.48351 110.25211 115.23241 120.21272 125.90933 131.99548 136.97578 144.60814 149.02754 152.09702 155.41855 159.84096 164.26335 167.03195 169.5515 174.37538 182.00774 186.98804 191.41043 196.39075 200.2652 203.0338 205.80241 210.78271 214.09926 216.86787 221.84818 225.16472 232.91463 237.33702 241.21149">aclearphysicalinterpretation.Theeffectivedensity-to-mass</tspan>
+      </text>
+      <text
+         id="text58964-1"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,241.206)">
+        <tspan
+           id="tspan58962-5"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">69</tspan>
+      </text>
+      <text
+         id="text58968-0"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,229.749)">
+        <tspan
+           id="tspan58966-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.3155532 7.7369552 10.504565 13.272176 20.661436 25.640743 31.37422 34.14183 39.12114 45.96146 53.710369 58.131771 62.955662 67.934967 71.250526 75.671921 78.439537 82.860939 87.282341 90.04995 93.365501 98.34481 105.76097 109.6404 114.61971 118.49317 121.26078 125.68218 135.83408 140.25548 144.67688 152.08408 157.06339 163.89473 168.31613 172.73753 177.15894 182.13824 185.4538 189.8752 192.64281 197.06421 199.83182 207.24799 212.2253 215.54085 220.52016 225.49947 229.92087 237.31909 240.0867">ratioofthemany-electronsystemcanbeaccuratelyprobedin</tspan>
+      </text>
+      <text
+         id="text58972-3"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,229.749)">
+        <tspan
+           id="tspan58970-6"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">70</tspan>
+      </text>
+      <text
+         id="text58976-6"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,218.292)">
+        <tspan
+           id="tspan58974-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7676103 9.8599854 18.086103 23.063419 25.83103 28.900507 32.216061 36.637463 39.953014 44.374416 49.353725 55.375118 62.467495 66.888893 71.868202 75.741661 81.754089 86.1735 88.941109 91.708725 96.688026 101.10943 107.67976 112.65907 115.42668 123.09489 125.86649 130.84579 138.51401 141.82956 146.25096 150.12442 155.10373 160.08304 165.06235 168.93581 176.60402 181.58133 188.1427 192.56212 200.78824 205.76755 210.74684 215.72615 220.70546 225.68477 230.66408 235.64339 240.06479">twodifferentways:eitherviatheresponseofanunbounded</tspan>
+      </text>
+      <text
+         id="text58980-7"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,218.292)">
+        <tspan
+           id="tspan58978-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">71</tspan>
+      </text>
+      <text
+         id="text58984-7"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,206.8351)">
+        <tspan
+           id="tspan58982-5"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.8734589 8.852766 12.726225 15.493835 19.915237 31.057409 33.82502 42.194599 50.006275 54.427677 59.406982 64.386292 68.25975 71.027359 75.448761 80.42807 86.601891 92.139107 96.560509 99.328117 104.30743 110.20229 115.1816 121.88644 126.86574 129.63335 137.45399 140.22559 145.2049 153.01657 156.33212 160.75352 164.62698 169.60629 174.5856 179.56491 183.43837 191.259 196.23633 202.94115 210.75282 215.73213 220.71144 225.69075 230.67006 235.64937 240.07077">systemtoaconstantfeld,orviatheresponseofabounded</tspan>
+      </text>
+      <text
+         id="text58988-4"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,206.8351)">
+        <tspan
+           id="tspan58986-9"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">72</tspan>
+      </text>
+      <text
+         id="text58992-4"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,195.3781)">
+        <tspan
+           id="tspan58990-3"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.4233942 7.7409401 12.72224 16.597692 19.367294 23.790689 26.560291 29.329895 32.099499 34.869099 42.618011 45.387611 53.694427 61.44334 64.214935 68.940193 76.131203 79.448746 82.766289 86.083839 90.507233 95.488533 100.46983 104.89323 109.87453 114.14051 122.47423 127.45154 131.327 135.75038 138.51999 141.2896 144.05919 148.48259 151.2522 154.02179 159.0031 167.30991 172.84912 177.27251 180.04211 185.02342 190.86449 194.18204 202.47989 205.24948 210.23079 217.98866 221.3102 226.29149 229.60904 237.35994 241.78334">crystallitetoalow-frequencyoscillatingfeld.Intheformer</tspan>
+      </text>
+      <text
+         id="text58996-6"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,195.3781)">
+        <tspan
+           id="tspan58994-0"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">73</tspan>
+      </text>
+      <text
+         id="text59000-2"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,183.921)">
+        <tspan
+           id="tspan58998-3"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.421402 8.842804 12.716263 21.662678 26.641985 31.621292 40.576675 45.555981 48.871532 53.850842 58.830151 63.251553 71.65799 74.973549 78.289101 82.710503 91.647949 96.069351 100.49075 104.91216 109.33356 112.10117 116.52257 119.83812 124.25952 127.02714 129.79474 134.77405 139.75336 146.79094 151.21234 156.19165 165.69597 168.46358 177.95894 180.72655 185.70586 194.65227 197.42386 201.84526 204.61287 207.38048 211.80188 219.64046 222.96199 227.9413 231.25685 235.67825 240.09966">caseoneprobesfreeacceleration,andinthelatterforced</tspan>
+      </text>
+      <text
+         id="text59004-1"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,183.921)">
+        <tspan
+           id="tspan59002-7"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">74</tspan>
+      </text>
+      <text
+         id="text59008-9"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,172.464)">
+        <tspan
+           id="tspan59006-9"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9812999 8.8567514 13.280146 16.049749 18.819351 21.588955 26.012348 28.781952 31.551554 36.532856 41.514153 45.389606">oscillations.</tspan>
+      </text>
+      <text
+         id="text59012-8"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,172.464)">
+        <tspan
+           id="tspan59010-3"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">75</tspan>
+      </text>
+      <text
+         id="text59020-8"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,326.943,161.007)">
+        <tspan
+           id="tspan59014-1"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.3165495 10.660978 16.199188 20.621586 25.043983">InSec.</tspan>
+        <tspan
+           id="tspan59016-8"
+           sodipodi:role="line"
+           y="0"
+           x="29.906729 33.227264">II</tspan>
+        <tspan
+           id="tspan59018-9"
+           sodipodi:role="line"
+           y="0"
+           x="38.915909 46.106915 52.892441 57.871746 61.187302 66.011192 70.988503 73.756119 78.735428 85.539879 88.311478 93.290779 100.08627 107.83518 112.25658 115.02419 122.37759 127.3569 131.77831 137.31551 142.29482 145.06242 147.83005 150.59766 155.57697 160.55626 166.82076 171.24216 176.22145 183.57486 190.76585 197.56134 202.54065 206.96205 210.2776 214.15106 220.94656 223.71417 228.69348">weprovidethemaindefnitionsandweparsethe</tspan>
+      </text>
+      <text
+         id="text59024-4"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,161.007)">
+        <tspan
+           id="tspan59022-2"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">76</tspan>
+      </text>
+      <text
+         id="text59028-4"
+         style="font-style:italic;font-variant:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,316.512,149.5501)">
+        <tspan
+           id="tspan59026-1"
+           y="0"
+           x="0">f</tspan>
+      </text>
+      <text
+         id="text59036-3"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,321.03901,149.5501)">
+        <tspan
+           id="tspan59030-8"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.3155532 7.1890121 12.16832 23.274626 26.590179 31.569487 34.337097 38.758499 44.878525 47.65012 55.983833 61.521046 65.942451 70.363853">-sumrule;inSec.</tspan>
+        <tspan
+           id="tspan59032-4"
+           sodipodi:role="line"
+           y="0"
+           x="76.229828 79.551361 82.872894">III</tspan>
+        <tspan
+           id="tspan59034-3"
+           sodipodi:role="line"
+           y="0"
+           x="89.531891 96.7229 104.49871 109.47801 112.24563 116.11909 121.09839 123.866 128.2874 136.62112 139.39272 144.37202">wedisplaythe</tspan>
+      </text>
+      <text
+         id="text59040-6"
+         style="font-style:italic;font-variant:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Italic;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,473.19381,149.5501)">
+        <tspan
+           id="tspan59038-9"
+           y="0"
+           x="0">D</tspan>
+      </text>
+      <text
+         id="text59044-0"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,483.82291,149.5501)">
+        <tspan
+           id="tspan59042-7"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.3165495 8.2968531 11.613402 19.36331 23.785707 29.905733 34.171719 39.152023 44.132324 47.448875 51.871273 55.745728 59.620182 62.38879 67.369095 72.349396">formalexpressions</tspan>
+      </text>
+      <text
+         id="text59048-6"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,149.5501)">
+        <tspan
+           id="tspan59046-3"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">77</tspan>
+      </text>
+      <text
+         id="text59052-3"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,138.093)">
+        <tspan
+           id="tspan59050-1"
+           sodipodi:role="line"
+           y="0"
+           x="0 7.1910048 9.9586153 12.726225 17.705532 20.473143 28.609598 33.588905 38.010307 42.989616 47.968922 51.284477 55.157936 57.925545 61.2411 66.220406 70.641808 73.409416 78.388725 81.704277 89.28183 92.053429 97.032738 101.45414 106.43344 109.749 114.07775 119.73849 125.82365 130.80296 138.38152 145.4191 150.39839 155.3777 163.52313 166.83868 171.81799 175.13354 182.88245 187.86176 190.62936 198.20692 201.52846 206.50777 212.9695 217.3909 222.37021 227.34952 232.32883 237.30814 241.72954">withinband-structuretheory.TheKuboformulaforconduc-</tspan>
+      </text>
+      <text
+         id="text59056-1"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,138.093)">
+        <tspan
+           id="tspan59054-8"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">78</tspan>
+      </text>
+      <text
+         id="text59060-0"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,126.636)">
+        <tspan
+           id="tspan59058-5"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7686064 5.2881479 10.268452 13.037059 15.805665 23.455946 27.878344 33.313938 36.082546 41.062847 48.146255 50.91785 55.898155 60.87846 65.300858 70.281158 74.70356 79.683861 84.664169 89.086563 94.066872 96.835472 100.15202 105.13233 109.55473 112.87128 115.63988 118.40849 122.83089 125.59949 132.71877 135.48738 139.65472 144.47862 148.89803 151.66664 156.83224 164.02425 166.79285 169.56146 174.54176 177.31036 184.96065 189.94095 194.92126 197.68987 205.34015 210.87537 217.51942 224.16348 230.70692 235.12932 240.10962">tivityattheindependent-particlelevel,withinbothPBCsand</tspan>
+      </text>
+      <text
+         id="text59064-8"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,126.636)">
+        <tspan
+           id="tspan59062-7"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">79</tspan>
+      </text>
+      <text
+         id="text59072-7"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,115.179)">
+        <tspan
+           id="tspan59066-9"
+           sodipodi:role="line"
+           y="0"
+           x="0 7.1910048 13.834066 20.477129 24.350588 28.76103 31.532625 37.319901 42.297215 45.612766 50.034168 53.907627 58.329029 63.308338 66.075951 70.497353 77.400436 80.168045 87.0532 92.590408 97.01181 101.43321">OBCs,ispresentedinSec.</tspan>
+        <tspan
+           id="tspan59068-4"
+           sodipodi:role="line"
+           y="0"
+           x="105.8576 109.17814">IV</tspan>
+        <tspan
+           id="tspan59070-1"
+           sodipodi:role="line"
+           y="0"
+           x="116.36915 121.04958 123.82117 128.79948 135.1357 140.11401 142.88062 145.9501 149.27162 153.69203 157.00659 161.427 166.4053 170.82571 175.24612 181.05133 186.02963 190.45004 193.21666 200.40666 204.82707 209.24748 216.15056 218.91718 223.89549 230.2317 233.0033 240.09567">;thedifferencesbetweenthetwo</tspan>
+      </text>
+      <text
+         id="text59076-3"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,115.179)">
+        <tspan
+           id="tspan59074-3"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">80</tspan>
+      </text>
+      <text
+         id="text59080-9"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,103.722)">
+        <tspan
+           id="tspan59078-7"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.4223981 8.8447962 12.719252 17.141649 25.269138 29.691536 33.008087 41.66658 44.438179 49.41848 54.398785 57.715336 62.695637 67.675941 72.656242 77.636551 80.405159 89.639488 94.616806 97.385414 101.25986 105.68227 110.66257 114.53703 118.41148 122.83388 127.81418 134.56384 140.64999 145.63029 154.29776 159.83597 164.81627 169.79657 174.21898 178.64137 181.95792 190.9671 193.7357 196.50432 201.382 205.8044 210.7847 214.65916 217.97571 226.83147 231.25386 234.57042 237.33902 240.10762">casesarethoroughlydiscussed.TheSouza-Wilkens-Martin</tspan>
+      </text>
+      <text
+         id="text59084-0"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,103.722)">
+        <tspan
+           id="tspan59082-2"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">81</tspan>
+      </text>
+      <text
+         id="text59092-0"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,92.2651)">
+        <tspan
+           id="tspan59086-2"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.8744552 8.8547592 19.934166 23.255697 28.236 31.004608 38.753517">sumrule[</tspan>
+        <tspan
+           id="tspan59088-9"
+           y="0"
+           x="42.07505">8</tspan>
+        <tspan
+           id="tspan59090-9"
+           sodipodi:role="line"
+           y="0"
+           x="47.052364 50.369911 56.184082 63.932995 68.756882 73.180275 76.497826 84.813606 89.790924 94.516182 101.70718 106.13058 109.44813 112.76567 117.74697 123.85803 126.62963 131.61093 136.59222 142.69432 145.46393 153.76176 158.74307 161.51268 165.38812 169.81152 173.12907 175.89867 183.64957 186.41917 191.40048 195.82387 198.59348 206.35135 209.12294 214.10425 217.97969 222.961 225.73059 230.15399 232.9236 237.90489 241.22244">],averypowerfultooltodiscriminateinsulators</tspan>
+      </text>
+      <text
+         id="text59096-3"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,92.2651)">
+        <tspan
+           id="tspan59094-1"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">82</tspan>
+      </text>
+      <text
+         id="text59104-6"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,80.808)">
+        <tspan
+           id="tspan59098-2"
+           sodipodi:role="line"
+           y="0"
+           x="0 3.3165495 6.6330991 11.613402 22.755575 30.505482 34.927879 37.696487 42.118885 44.887489 48.761944 54.64785 57.419445 64.682182 69.659492 72.976044 77.398445 81.272896 85.695297 90.675598 93.444206 97.866608 106.24515 109.01376 117.38334 122.92155 127.34395 131.76634">frommetals,ispresentedinSec.</tspan>
+        <tspan
+           id="tspan59100-8"
+           y="0"
+           x="137.66321">V</tspan>
+        <tspan
+           id="tspan59102-7"
+           sodipodi:role="line"
+           y="0"
+           x="144.85422 150.74011 156.82428 161.80359 169.62422 172.93977 177.36118 181.23463 186.21394 188.98155 191.74916 199.0119 203.99121 210.69604 215.67534 220.65465 227.37741 232.35672 237.33603 241.75743">.Theresultsofourone-</tspan>
+      </text>
+      <text
+         id="text59108-2"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,80.808)">
+        <tspan
+           id="tspan59106-0"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">83</tspan>
+      </text>
+      <text
+         id="text59112-6"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,69.351)">
+        <tspan
+           id="tspan59110-0"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.9803038 7.7489104 15.498816 19.921215 24.901518 28.775974 31.54458 36.524883 41.505188 45.927586 51.714859 55.03141 60.011715 67.203712 73.513031 77.387482 80.15609 87.905998 92.886299 95.654907 100.07731 102.84591 105.61452 110.59483 115.57513 122.45131 126.87371 130.19026 137.60641 142.58374 145.90028 150.32268 154.19714 158.61954 163.59984 166.36844 170.79085 178.78284 183.20525 188.18555 196.16858 201.14888 203.91748 207.79195 212.21434 217.19464 221.06909 224.94356 229.36595 237.34001 240.11162">dimensional(1D)simulationsarepresentedanddiscussedin</tspan>
+      </text>
+      <text
+         id="text59116-7"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,69.351)">
+        <tspan
+           id="tspan59114-8"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">84</tspan>
+      </text>
+      <text
+         id="text59124-9"
+         style="font-variant:normal;font-weight:normal;font-size:9.96259975px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,314.982,57.894)">
+        <tspan
+           id="tspan59118-2"
+           sodipodi:role="line"
+           y="0"
+           x="0 5.5352206 9.9546299 14.37404">Sec.</tspan>
+        <tspan
+           id="tspan59120-9"
+           sodipodi:role="line"
+           y="0"
+           x="19.196934 26.387939">VI</tspan>
+        <tspan
+           id="tspan59122-5"
+           sodipodi:role="line"
+           y="0"
+           x="29.708473 34.784416 41.975422 48.716118 53.138515 58.11882 63.099125 66.415672 70.838074 74.712524 80.913246 84.792686 89.21508 94.195389 98.617783 101.93433 106.35674 109.12534 113.54774 116.31635 123.61494 126.93648 130.25302 134.67543 141.40715 145.82657 148.59517 153.01756 157.43996 160.20857 163.52512 168.50542 173.48573 177.36018 182.17511 187.15541 191.5778 196.55811 203.86667 206.63528 211.61559 215.49004 220.47035 223.23895 227.66135 230.42996 235.41026 238.72681 242.60127">;weaddressseparatelyfreeelectrons,bandinsulators,</tspan>
+      </text>
+      <text
+         id="text59128-5"
+         style="font-variant:normal;font-weight:normal;font-size:4.98129988px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,574.452,57.894)">
+        <tspan
+           id="tspan59126-8"
+           sodipodi:role="line"
+           y="0"
+           x="0 2.7715952">85</tspan>
+      </text>
+      <text
+         id="text59134-9"
+         style="font-variant:normal;font-weight:normal;font-size:8.96640015px;font-family:'Times New Roman';-inkscape-font-specification:Times-Roman;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,51.975,33.981)">
+        <tspan
+           id="tspan59130-4"
+           sodipodi:role="line"
+           y="0"
+           x="0 4.4823031 8.9646063 13.44691 17.929213 20.914127 25.396431 29.878735 34.361038 38.843342 41.335106 45.817406 50.299709 54.782013 59.264317 61.756081 66.23838 70.720688 73.705605 78.187904 81.172821 83.664581 88.146889 92.629189 97.111488 101.5938 106.0761 110.5584 113.54332 118.02562 235.34109 239.82341 244.30571 248.78801 253.27031 257.75262 262.23492 265.21985 384.0112 390.82477 395.30707 399.78937 404.27167 411.00363 417.47647 424.45145 428.43164 431.41653 433.90829 437.88849 441.86868 448.60065 453.58508 458.06738 462.54968 466.03671 468.52847 472.50867 476.48883 481.23206 486.21649 490.69879 494.67899 497.17075 501.15094 503.6427">2469-9950/2020/00(0)/005100(8)005100-1©2020AmericanPhysicalSociety</tspan>
+        <tspan
+           id="tspan59132-5"
+           sodipodi:role="line"
+           y="16.938425"
+           x="0 6.1114984 12.092087 18.072676 22.546013 28.526602 35.000343 41.474083 55.918953 61.814362 68.285416 72.768616 77.251816 81.735016 86.218216 191.32953 197.30563 203.77669 209.25516 215.7289 222.20264 237.16129 243.14188 247.12296 249.61562 252.10828 256.59146 263.56732 266.06">ACC.CODEBU14160AUTHORBellomia</tspan>
+      </text>
     </g>
   </g>
 </svg>
