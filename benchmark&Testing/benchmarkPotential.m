@@ -1,6 +1,6 @@
 %% Basic-Test of the function
 
-addpath ../commonFunctions
+addpath ../abcFunctions
 
 a  = 0.2       ;% Lattice parameter
 L  = 3         ;% Number of cells [units of a]
