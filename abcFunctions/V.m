@@ -10,7 +10,7 @@ function U = V(x,a,L,V0,W,shape,csym)
 %  > shape is a string identyfing the functional form of the potential:
 %  ->'HV' for He-Vanderbilt Gaussian barriers (Phys.Rev.Lett.86,5341)
 %  ->'MT' for Matthieu single-sine potential (Phys.Rev.87,807)
-%  ->'KP' for Kronig-Penney square barriers (Proc.R.Soc.Lond.A.130,499–513)
+%  ->'KP' for Kronig-Penney square barriers (Proc.R.Soc.Lond.A.130,499â€“513)
 %  > csym is a flag for centrosymmetry (is the crystal centrosymmetric?)
 %  ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ function U = V(x,a,L,V0,W,shape,csym)
    elseif shape == 'MT'
        U = V0/2 * (1 + sin( 2*pi/a*(x+a/4-dx)) );
 %                                     -csym-       
-%% Kronig-Penney square atomic barriers (cf. Proc.R.Soc.Lond.A.130,499–513)  
+%% Kronig-Penney square atomic barriers (cf. Proc.R.Soc.Lond.A.130,499â€“513)  
    elseif shape == 'KP'
        U = V0/2 * ( 1 + square(2*pi/a*(x+W/2-dx),W*100) );
 %                                        -csym-  -duty-
@@ -75,7 +75,7 @@ end
 %     performance for a fixed target value of the Drude weight.
 %
 %  3. Kronig-Penney square barriers potential has been also implemented
-%     through a native matlab function: square(t,duty), which gives a
+%     through a native matlab function: *square(t,duty)*, which gives a
 %     square-wave signal with period 2pi and duty-cycle given in percentage 
 %     by "duty". That's why we put duty = W*100, being W the total width of
 %     the square barrier, given in units of the lattice period a.
@@ -84,6 +84,7 @@ end
 %     Nevertheless the Fourier decomposition (either plane-wave or
 %     trigonometric) will be for sure quite long tailed, so we expect the
 %     hamiltonian matrix build to be not so efficient.
+%     NB: *square(t,duty)* requires 'Signal-Processing-Toolbox' installed.
 %
 %  So, as far as speed is concerned, the preferred option should be 'MT'.
 %  But being a sine a very irrealistic model for a crystalline potential we
