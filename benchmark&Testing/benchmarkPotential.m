@@ -22,7 +22,7 @@ xlim([0,L*a]); hold off
 
 a = 1; V0 = 1; W = 0.2; csym = 1;
 
-shape = {'MT','HV','KP'}; L = round(logspace(0,3,25)); 
+shape = {'MT','HV','KP'}; L = round(logspace(0,3,150)); 
 t = zeros(length(shape),length(L));
 for i = 1:length(shape)
    for j = 1:length(L)
