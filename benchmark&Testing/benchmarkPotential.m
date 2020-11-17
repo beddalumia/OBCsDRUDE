@@ -1,4 +1,4 @@
-%% Basic Test of the function
+%% Basic-Test of the function
 
 addpath ../commonFunctions
 
@@ -18,7 +18,7 @@ area(x,y,'FaceColor', [0.9 0.8 0.9]); hold on
 xline(L*a/2); 
 xlim([0,L*a]); hold off
 
-%% Speed Benchmark of the three shapes (expected MT > KP >> HV)
+%% Speed-Benchmark of the three shapes (expected MT > KP >> HV)
 
 a = 1; V0 = 1; W = 0.2; csym = 1;
 
