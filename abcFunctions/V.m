@@ -9,7 +9,7 @@ function U = V(x,a,L,V0,W,shape,csym)
 %  > W is the FWHM of the potential (units of a) [HV & KP shapes only]
 %  > shape is a string identyfing the functional form of the potential:
 %  ->'HV' for He-Vanderbilt Gaussian barriers (Phys.Rev.Lett.86,5341)
-%  ->'MT' for Matthieu single-sine potential (Phys.Rev.87,807)
+%  ->'MT' for Mathieu single-sine potential (Phys.Rev.87,807)
 %  ->'KP' for Kronig-Penney square barriers (Proc.R.Soc.Lond.A.130,499–513)
 %  > csym is a flag for centrosymmetry (is the crystal centrosymmetric?)
 %  ------------------------------------------------------------------------
