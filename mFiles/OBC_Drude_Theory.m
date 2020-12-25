@@ -6,7 +6,7 @@ clc
 %% 
 % First of all we define the physical parameters of our system:
 
-particleDensity = 1 % n = N\L
+particleDensity = 1 % n = N/L
 cutoff = 55 % In ``Hartree''
 V0 = 20 % In ``Hartree''
 W = 0.2 % Width of V(x)
