@@ -25,8 +25,8 @@ cutoff = 55;        % In ``Hartree''
 %  $L\to\infty$, $N\to\infty$ such that $N/L = n$ is constant. 
 %  So we need a cycle over increasing L values:
 
-Lmin  = 102;        %
-Lmax  = 122;        % Only even values <=> Spinless electrons
+Lmin  = 002;        %
+Lmax  = 022;        % Only even values <=> Spinless electrons
 Lstep = 020;        %
 
 fprintf('###########################################\n');
@@ -43,18 +43,28 @@ fprintf('Calculation with %d electrons per unit cell\n',particleDensity);
 fprintf('Using %d FE-states as a diagonalization basis\n',basisDIM);
 fprintf('And a cutoff of %f hartree for the Kubo series\n',cutoff);
 
+physID = sprintf('N%dA%.1fV%.1fW%.1f%s%d',particleDensity,a,V0,W,shape,csym);
+diagID = [physID,sprintf('ACC%dDIM%d',step,basisDIM)];
+kuboID = [diagID,sprintf('cut@%f',cutoff)];
+
 for L = Lmin:Lstep:Lmax % IN UNITS OF LATTICE PARAMETER HERE!
     
-    fprintf('~~~~~~~~~~~\n',L);
-    fprintf('#Cells = %d\n',L);
-    fprintf('~~~~~~~~~~~\n',L);
+    fprintf('~~~~~~~~~~~~~\n',L);
+    fprintf('# Cells = %d\n',L);
+    fprintf('~~~~~~~~~~~~~\n',L);
     
     N = particleDensity*L;
     
-  % Building Crystallite's Hamiltonian
-  % TO DO: check if an Hamiltonian is already saved...else save it!
-    fprintf('Building up the Hamiltonian..');
-    H = obcHamiltonian(L,shape,csym); fprintf('.DONE!\n');
+  % Building (loading) crystallite's Hamiltonian
+    hamiltonianID = ['H_',sprintf('L%d',L),diagID,'.mat'];
+    if isfile(hamiltonianID)
+        fprintf('Loading the Hamiltonian..\n');
+        load(hamiltonianID); fprintf('.DONE!\n');
+    else
+        fprintf('Building up the Hamiltonian..');
+        H = obcHamiltonian(L,shape,csym); fprintf('.DONE!\n');
+        save(hamiltonianID,'H');
+    end
     fprintf('Diagonalizing Hamiltonian..');
     [c,E] = eig(H,'vector'); fprintf('.DONE!\n');
     
