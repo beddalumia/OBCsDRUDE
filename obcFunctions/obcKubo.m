@@ -1,10 +1,12 @@
-function [w,res,nMax,mMax] = obcKubo(E,psi,nF,La)
-
-    global dx step basisDIM cutoff % Computational parameters
-
+function [w,res,nMax,mMax] = obcKubo(E,psi,nF,a,L,dx,step,basisDIM,cutoff)
+    
+    % global a                       % Physical parameters
+    % global dx step basisDIM cutoff % Computational parameters
+    % -> global variables are deprecated within parfor loops
+    
   %% First of all, we apply the velocity operator to the eigenstates
    % $\hat{v}\psi_n(x) = i \frac{\mathrm{d}}{\mathrm{d}x} \psi_n(x)$
-     x = linspace(0,La,step*La);
+     x = linspace(0,L*a,step*L*a);
      vpsi = zeros(length(x),basisDIM);
      dpsi_dx = zeros(1,length(x));
      for n = 1:basisDIM
@@ -36,7 +38,7 @@ function [w,res,nMax,mMax] = obcKubo(E,psi,nF,La)
              if abs(M1) < 0.001 || abs(M2) < 0.001
                  res(n,m) = 0; % Helps avoiding numerical noise
              else
-                  res(n,m) = 4*M1*M2/(dw*La);              
+                  res(n,m) = 4*M1*M2/(dw*L*a);              
              end
               m = m+1;
          end

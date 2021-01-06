@@ -1,5 +1,6 @@
-global a particleDensity V0 W   % Physical parameters
-global step dx basisDIM cutoff  % Computational parameters
+% global a particleDensity V0 W   % Physical parameters
+% global step dx basisDIM cutoff  % Computational parameters
+% -> global variables are deprecated within parfor loops
 
 addpath ../abcFunctions
 addpath ../obcFunctions
@@ -45,9 +46,13 @@ fprintf('And a cutoff of %f hartree for the Kubo series\n',cutoff);
 
 physID = sprintf('N%dA%.1fV%.1fW%.1f%s%d',particleDensity,a,V0,W,shape,csym);
 diagID = [physID,sprintf('ACC%dDIM%d',step,basisDIM)];
-kuboID = [diagID,sprintf('cut@%f',cutoff)];
+kuboID = [diagID,sprintf('cut@%.1f',cutoff)];
 
-for L = Lmin:Lstep:Lmax % IN UNITS OF LATTICE PARAMETER HERE!
+Lvalues = Lmin:Lstep:Lmax;  % IN UNITS OF LATTICE PARAMETER HERE!
+
+parfor i = 1:length(Lvalues)
+    
+    L = Lvalues(i);         % IN UNITS OF LATTICE PARAMETER HERE!
     
     fprintf('~~~~~~~~~~~~~\n',L);
     fprintf('# Cells = %d\n',L);
@@ -56,14 +61,15 @@ for L = Lmin:Lstep:Lmax % IN UNITS OF LATTICE PARAMETER HERE!
     N = particleDensity*L;
     
   % Building (loading) crystallite's Hamiltonian
-    hamiltonianID = ['H_',sprintf('L%d',L),diagID,'.mat'];
+    hamiltonianID = ['../matFiles/H_',sprintf('L%d',L),diagID,'.mat'];
     if isfile(hamiltonianID)
         fprintf('Loading the Hamiltonian..\n');
-        load(hamiltonianID); fprintf('.DONE!\n');
+        WS = load(hamiltonianID); 
+        H = WS.H; fprintf('.DONE!\n');
     else
         fprintf('Building up the Hamiltonian..');
-        H = obcHamiltonian(L,shape,csym); fprintf('.DONE!\n');
-        save(hamiltonianID,'H');
+        H = obcHamiltonian(a,V0,W,L,shape,csym,step,dx,basisDIM); 
+        parsave(hamiltonianID,H); fprintf('.DONE!\n');
     end
     fprintf('Diagonalizing Hamiltonian..');
     [c,E] = eig(H,'vector'); fprintf('.DONE!\n');
@@ -76,15 +82,15 @@ for L = Lmin:Lstep:Lmax % IN UNITS OF LATTICE PARAMETER HERE!
     end
     EF = E(nF);
     
-  % Geometrical Drude Weight
-  % $D = 2v_\mathrm{F}$, with some care on what $v_\mathrm{F}$ is:
-    if nF > 2
-     % OBC Fermi velocity
-        vF = (E(nF+1)-E(nF-1))/(2*(pi/(L*a)));
-     % OBC Geometrical Drude Weight
-        deltaL = L-Lmin;
-        gDw(deltaL/Lstep + 1) = 2*vF/pi;
-    end
+%   % Geometrical Drude Weight
+%   % $D = 2v_\mathrm{F}$, with some care on what $v_\mathrm{F}$ is:
+%     if nF > 2
+%      % OBC Fermi velocity
+%         vF = (E(nF+1)-E(nF-1))/(2*(pi/(L*a)));
+%      % OBC Geometrical Drude Weight
+%         deltaL = L-Lmin;
+%         gDw(deltaL/Lstep + 1) = 2*vF/pi;
+%     end
     
   % [Plot Energy Scheme]
   
@@ -105,21 +111,23 @@ for L = Lmin:Lstep:Lmax % IN UNITS OF LATTICE PARAMETER HERE!
    
  %% Kubo Poles and Residues
     fprintf('Kubo linear response..');
-    [w,res,nMax,mMax] = obcKubo(E,psi,nF,L*a); fprintf('.DONE!\n');
+    [w,res,nMax,mMax] = obcKubo(E,psi,nF,a,L,dx,step,basisDIM,cutoff); 
+    polesID = ['../matFiles/w&Res_',sprintf('L%d',L),kuboID,'.mat'];
+    parsave(polesID,w,res); fprintf('.DONE!\n');
   
-  % Reshaffling
-    deltaL = L-Lmin;
-    nPoles = zeros(1,mMax-1);
-    nResidues = zeros(1,mMax-1);
-    for n = 1:nF
-        for m_n = 1:(mMax-n)
-            m = n + m_n; % i.e. m-n = m_n ;)
-            nPoles(m_n) = w(n,m);
-            nResidues(m_n) = res(n,m);
-        end
-     poles(n, deltaL/Lstep+1, 1:length(nPoles)) = nPoles;
-     residues(n, deltaL/Lstep+1, 1:length(nResidues)) = nResidues;
-    end
+  % Reshaffling (ugly and unuseful in the end, I think)
+%     deltaL = L-Lmin;
+%     nPoles = zeros(1,mMax-1);
+%     nResidues = zeros(1,mMax-1);
+%     for n = 1:nF
+%         for m_n = 1:(mMax-n)
+%             m = n + m_n; % i.e. m-n = m_n ;)
+%             nPoles(m_n) = w(n,m);
+%             nResidues(m_n) = res(n,m);
+%         end
+%      poles(n, deltaL/Lstep+1, 1:length(nPoles)) = nPoles;
+%      residues(n, deltaL/Lstep+1, 1:length(nResidues)) = nResidues;
+%     end
     
 end
 
@@ -131,3 +139,19 @@ end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% All the plotting
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Basic routines for parpools
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+function parsave(fname,varargin)
+  numvars=numel(varargin);
+  for i=1:numvars
+     eval([inputname(i+1),'=varargin{i};']); 
+     % This should allow giving it a variable number of arguments and the 
+     % function recognizes their names.
+  end
+  save('-mat',fname,inputname(2));
+  for i = 2:numvars    
+    save('-mat',fname,inputname(i+1),'-append');
+  end
+end

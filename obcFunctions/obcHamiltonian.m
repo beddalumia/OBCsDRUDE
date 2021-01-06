@@ -1,10 +1,11 @@
-function H = obcHamiltonian(L,shape,csym)
+function H = obcHamiltonian(a,V0,W,L,shape,csym,step,dx,basisDIM)
 %%  Hamiltonian matrix for the OBC system
 %   We build the crystal hamiltonian computing matrix elements
 %   $\{\langle \psi^0_n | K + V(x) | \psi^0_m\rangle\}$    
 
-    global a V0 W % Physical parameters
-    global step dx basisDIM % Computational parameters
+    % global a V0 W % Physical parameters
+    % global step dx basisDIM % Computational parameters
+    % -> global variables are deprecated within parfor loops
 
     H = zeros(basisDIM,basisDIM);
     x = linspace(0,L*a,step*L*a);
