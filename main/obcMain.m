@@ -1,7 +1,3 @@
-% global a particleDensity V0 W   % Physical parameters
-% global step dx basisDIM cutoff  % Computational parameters
-% -> global variables are deprecated within parfor loops
-
 addpath ../abcFunctions
 addpath ../obcFunctions
 
@@ -27,8 +23,8 @@ cutoff = 55;        % In ``Hartree''
 %  So we need a cycle over increasing L values:
 
 Lmin  = 002;        %
-Lmax  = 022;        % Only even values <=> Spinless electrons
-Lstep = 020;        %
+Lmax  = 122;        % Only even values <=> Spinless electrons
+Lstep = 002;        %
 
 fprintf('###########################################\n');
 fprintf('Lattice parameter: %f bohr\n',a);
@@ -48,11 +44,12 @@ physID = sprintf('N%dA%.1fV%.1fW%.1f%s%d',particleDensity,a,V0,W,shape,csym);
 diagID = [physID,sprintf('ACC%dDIM%d',step,basisDIM)];
 kuboID = [diagID,sprintf('cut@%.1f',cutoff)];
 
-Lvalues = Lmin:Lstep:Lmax;  % IN UNITS OF LATTICE PARAMETER HERE!
+Lvalues = Lmin:Lstep:Lmax;      % IN UNITS OF LATTICE PARAMETER HERE!
 
-parfor i = 1:length(Lvalues)
+for i = 1:length(Lvalues)      %-> For sequential execution
+%parfor i = 1:length(Lvalues)    %-> For parallel execution
     
-    L = Lvalues(i);         % IN UNITS OF LATTICE PARAMETER HERE!
+    L = Lvalues(i);
     
     fprintf('~~~~~~~~~~~~~\n',L);
     fprintf('# Cells = %d\n',L);
