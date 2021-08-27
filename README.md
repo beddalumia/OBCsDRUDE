@@ -1,5 +1,5 @@
 ![matDrudeBanner](picReadme/repository-banner.svg?sanitize=true)
-# OBCsDrudeTh
+# OBCsDRUDE
 
 Porting and extension of [pyDrude](https://github.com/Bellomia/pyDrude), the python project related to my master-thesis project. It has lead to a publication in a top-tier condensed matter physics journal ([Phys. Rev. B **102**, 205123](https://doi.org/10.1103/PhysRevB.102.205123)). I'll add soon more details about all of that.
 
